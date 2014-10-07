@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <question_list>
-  <question desc="W związku z otrzymaną informacją dotyczącą zagrożonego Gminnego Zakładu Oczyszczalni Ścieków w Zagórowie:  " multiresponse="false" name="Zagrożenie oczyszczalni w Zagórowie" plotId="NVPNHP" roleId="DTPJYM" stringId="EBXDZU">
-    <response hint="To podstawowe zadanie gminy w takiej sytuacji - powinna najpierw wykorzystać swoje zasoby, dopiero po ich użyciu może zgłosić się o pomoc." multiresponse="false" name="organizuję akcję zabezpieczania oczyszczalni workami z wykorzystaniem dostępnych gminie środków" stringId="UTCGAH">
+  <question desc="In relation to the information on endangered Municipal Wastewater Treatment Plant in Zagórów:  " multiresponse="false" name="Endangered Municipal Wastewater Treatment Plant in Zagórów" plotId="NVPNHP" roleId="DTPJYM" stringId="EBXDZU">
+    <response hint="This is the basic task of the community in such a situation - should first use their resources, only after using them may seek additional help." multiresponse="false" name="organize action using bags of sand using municipality available resources" stringId="UTCGAH">
       <variants>
         <str_id answear="-" id="EXQKSU"/>
         <str_id answear="-" id="KHTVXH"/>
