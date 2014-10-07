@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <resource
+        desc="Turek County, with the county seat in Turek i located in the eastern part of the Wielkopolska region. A significant part of the economy of the district is still an open-cast mining. In 2011, the district has a population of 83.707 inhabitants. By Turek passes hub the importance of the inter-regional and (national road no 72, road no 83, provincial road No. 470). Interestingly, the original draft of the administrative reform in 1999 assumed the inclusion of Turku along with the district to the Lodz region, but after a strong social action and petitions individual municipalities most of the land was incorporated into the newly formed Wielkopolska Region."
+        iconName="obszar" name="Powiat turecki" stringId="JFPGCB" styleId="FTAVEG"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="83707"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.31849017589563" iconY="52.17745696343736"
+                id="powiaty_POLYGON.9" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Szkoła w Sławsku w jakiejś formule funkcjonuje już od początków XX wieku. W 1918 szkoła została przemianowana na Publiczną&#10;Państwową Szkołę Powszechną. Szkoła funkcjonowała podczas wojny, prowadzona przez sprzyjającego okupantom&#10;kierownika szkoły, Nicteasa Diaczyszyna. Po wojnie szkoła działała wciąż w tym samym budynku, wykorzystując wybudowaną&#10;przez niemców salkę lekcyjną. W 1992 roku szkoła przeniosła się do nowego budynku, w którym działa do dziś. Szkoła&#10;jest umiejscowiona w Sławsku na ulicy Okólnej 3."
+        iconName="obiekt_kluczowy" name="Zespół Szkół w Sławsku" stringId="KZEMPP" styleId="WSKWDC"
+        typeStringId="OBI">
+        <property included="false" stringId="OBI_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.138964884839574" iconY="52.19696284034309"
+                id="obiekty_POINT.14" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Pas startowy Aeroklubu może być używany jako lądowisko dla samolotów opryskujących tereny zalane, helikopterów ewakuacyjnych jak i wszelkich latających urządzeń do zbierania danych dotyczących powodzi z powietrza.&#10;&#10;Siedziba Aeroklubu Konińskiego znajduje się w odległym o 15 km od Konina w Kazimierzu Biskupim. Tam, na zrekultywowanych terenach pokopalnianych zagospodarowano obszar około 45 ha tworząc lotnisko i zaplecze aeroklubu.&#10;W skład infrastruktury Aeroklubu wchodzą: oświetlony asfaltowy pas startowy o długości 620 i szerokości 27 m, dwa hangary, budynek biurowo-socjalny z miejscami noclegowymi, stacja paliw oraz warsztat naprawy sprzętu lotniczego&#10;Na dzień dzisiejszy Aeroklub dysponuje trzema smolotami, siedmioma szybowcami, balonem na ogrzane powietrze. Umożliwia to prowadzenie szkoleń podstawowych, doskonalących i treningu członków sekcji samolotowej, szybowcowej&#10; i balonowej."
+        iconName="obiekt_kluczowy" name="Aeroklub Koniński w Kazimierzu Biskupim" stringId="THUHTQ"
+        styleId="WSKWDC" typeStringId="OBI">
+        <property included="false" stringId="OBI_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.16750394050498" iconY="52.31848903245197"
+                id="obiekty_POINT.15" name="aeroklub"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Jezioro polodowcowe typu rynnowego położone w powiecie słupeckim. Jest to największe jezioro w województwie &#10;wielkopolskim i 28 największe w Polsce."
+        iconName="obiekt_kluczowy" name="Jezioro Powidzkie" stringId="VEKKST" styleId="WSKWDC"
+        typeStringId="OBI">
+        <property included="false" stringId="OBI_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.936972257812602" iconY="52.398907061298154"
+                id="obiekty_POINT.16" name="Jezioro Powidzkie"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Mechaniczno - biologiczna oczyszczalnia ścieków Bioblok, typ PS-250, oddana do użytku w 1999r. Średnia wydajność dobowa oczyszczalni wynosi 250 m3/d. Oczyszczalnia&#10; obciążona jest aktualnie w 70% jej możliwości. Odbiornikiem ścieków oczyszczonych jest rzeka Rzeka Warta."
+        iconName="obiekt_kluczowy"
+        name="Przepompownia i oczyszczalnia ścieków komunalnych w Pyzdrach" stringId="EWIOAA"
+        styleId="WSKWDC" typeStringId="OBI">
+        <property included="false" stringId="OBI_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.68214762890629" iconY="52.173736580528846"
+                id="obiekty_POINT.17" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Powiat śremski leży w centralnej części województwa wielkopolskiego w Polsce. Zamiekszuje go ponad 60 tysięcy mieszkańców. Ludność&#10;powiatu systematycznie rośnie, ze względu n"
+        iconName="obszar" name="Powiat śremski" stringId="TQZYVZ" styleId="FTAVEG"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="60365"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.91783259356305" iconY="52.3084315041562"
+                id="powiaty_POLYGON.7" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Siedziba gminy miejsko - wiejskiej Golina." iconName="miasto"
+        name="Miasto Golina" stringId="CIBGNS" styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="4387"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.252313036888552" iconY="52.231007566736174"
+                id="miejscowosci_POINT.1" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Utworzony w wyniku reformy administracyjnej z 1999 roku powiat w centralnej wielkopolsce.&#10;Zamieszkuje go prawie 55 tysięcy ludzi."
+        iconName="obszar" name="Powiat średzki" stringId="MBOXVI" styleId="FTAVEG"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="54630"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.060895184703032" iconY="52.068426369343136"
+                id="powiaty_POLYGON.8" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Września, stolica powiatu wrzesińskiego, to miasto liczące prawie 30 tysięcy stałych mieszkańcow zlokalizowane 50 kilometrów na wschód od Poznania. Powiat ma z nim dzięki&#10; autostradzie A2 szybkie połączenie drogowe, a dzięki umiejscowieniu przy magistrali kolejowej e20 (Berlin-Moskwa), również kolejowe&#10; z Poznaniem i Warszawą. Gospodarka powiatu wrzesińskiego ma charakter przemysłowo-rolny."
+        iconName="obszar" name="Powiat wrzesiński" stringId="IRAUHU" styleId="FTAVEG"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="100"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="18.508832622961005" iconY="52.00181570327485"
+                id="powiaty_POLYGON.10" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Ujęcie i stacja uzdatniania wody - Lisewo, wydajność 60,00 m3/h."
+        iconName="obiekt_kluczowy" name="Ujęcie i stacja uzdatniania wody Lisewo" stringId="QNTIYY"
+        styleId="WSKWDC" typeStringId="OBI">
+        <property included="false" stringId="OBI_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.69599740054091" iconY="52.08290330003002"
+                id="obiekty_POINT.18" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Konwencjonalna elektrociepłownia opalana węglem brunatnym. Blok elektrowni ma moc 600MW. Poza dostarczaniem&#10;energii elektrycznej do sieci elektrownia dostarcza także pobliskiemu miastu Turek energię cieplną, a pobliskim zakładom&#10;jedwabniczym parę technologiczną."
+        iconName="obiekt_kluczowy" name="Elektrownia Adamów" stringId="HQYCGC" styleId="WSKWDC"
+        typeStringId="OBI">
+        <property included="false" stringId="OBI_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.545859597055557" iconY="52.01387782527039"
+                id="obiekty_POINT.19" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Informuje o poziomie wody [cm] na rzece Warcie w okolicy miejscowości Uniejów"
+        iconName="wodowskaz" name="Wodowskaz Uniejów" stringId="YVFIRL" styleId="WSKWDC"
+        typeStringId="WOD">
+        <property included="true" stringId="WOD_P" value="215">
+            <evaluations>
+                <evaluation evalMethod="MAX" max="335" min="309"/>
+            </evaluations>
+        </property>
+        <property included="false" stringId="WOD_O" value="220"/>
+        <property included="false" stringId="WOD_A" value="270"/>
+        <property included="false" stringId="WOD_M" value="Uniejów"/>
+        <geoIds>
+            <geoId default="true" iconX="0" iconY="0"
+                id="obiekty_POINT.13" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Informuje o poziomie wody [cm] na rzece Warcie w okolicach miejscowości Koło"
+        iconName="wodowskaz" name="Wodowskaz Koło" stringId="CIBYBJ" styleId="WSKWDC"
+        typeStringId="WOD">
+        <property included="true" stringId="WOD_P" value="359">
+            <evaluations>
+                <evaluation evalMethod="MAX" max="447" min="431"/>
+            </evaluations>
+        </property>
+        <property included="false" stringId="WOD_O" value="340"/>
+        <property included="false" stringId="WOD_A" value="390"/>
+        <property included="false" stringId="WOD_M" value="Koło"/>
+        <geoIds>
+            <geoId default="true" iconX="0" iconY="0"
+                id="obiekty_POINT.12" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Informuje o poziomie wody [cm] na rzece Warcie w okolicy miejscowości Sławsk"
+        iconName="wodowskaz" name="Wodowskaz Sławsk" stringId="PFHXUX" styleId="WSKWDC"
+        typeStringId="WOD">
+        <property included="true" stringId="WOD_P" value="420">
+            <evaluations>
+                <evaluation evalMethod="MAX" max="540" min="524"/>
+            </evaluations>
+        </property>
+        <property included="false" stringId="WOD_O" value="450"/>
+        <property included="false" stringId="WOD_A" value="480"/>
+        <property included="false" stringId="WOD_M" value="Sławsk"/>
+        <geoIds>
+            <geoId default="true" iconX="0" iconY="0"
+                id="obiekty_POINT.11" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Informuje o poziomie wody [cm] na rzece Warcie w okolicy miejscowości Nowa Wieś Podgórna"
+        iconName="wodowskaz" name="Wodowskaz Nowa Wieś Podgórna" stringId="WMMOHO" styleId="WSKWDC"
+        typeStringId="WOD">
+        <property included="true" stringId="WOD_P" value="374">
+            <evaluations>
+                <evaluation evalMethod="MAX" max="582" min="559"/>
+            </evaluations>
+        </property>
+        <property included="false" stringId="WOD_O" value="430"/>
+        <property included="false" stringId="WOD_A" value="480"/>
+        <property included="false" stringId="WOD_M" value="Nowa Wieś Podgórna"/>
+        <geoIds>
+            <geoId default="true" iconX="0" iconY="0"
+                id="obiekty_POINT.10" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Informuje o poziomie wody [cm] na rzece Warcie w okolicy miejscowości Uniejów"
+        iconName="wodowskaz" name="Wodowskaz Śrem" stringId="FDPTBK" styleId="WSKWDC"
+        typeStringId="WOD">
+        <property included="true" stringId="WOD_P" value="376">
+            <evaluations>
+                <evaluation evalMethod="MAX" max="528" min="515"/>
+            </evaluations>
+        </property>
+        <property included="false" stringId="WOD_O" value="400"/>
+        <property included="false" stringId="WOD_A" value="460"/>
+        <property included="false" stringId="WOD_M" value="Śrem"/>
+        <geoIds>
+            <geoId default="true" iconX="0" iconY="0"
+                id="obiekty_POINT.8" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Przepust technologiczny pod autostradą A2 przy miejscowości Sługocinek, nie został zaprojektowany jako budowla hydrotechniczna&#10;do zarządzania przepływami (jak np. przepusty wałowe z rur żelbetowych) lecz jako przejaz technologiczny służący&#10;zarówno transportowi lokalnemu jak i obsłudze obwałowania autostrady. Przy wysokim stanie rzeki i po uprzednim &#10;przelaniu przewału w Kraśnicy woda może przedrzeć się przezeń do miejscowości Ratyń i Sługocin."
+        iconName="obiekt_kluczowy" name="Przepust Sługocinek" stringId="FPCTUR" styleId="WSKWDC"
+        typeStringId="PRZ">
+        <property included="false" stringId="PRZ_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.0275912843738" iconY="52.203475222013225"
+                id="obiekty_POINT.7" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Przewał w Kraśnicy jest sztucznym zabezpieczeniem hydrotechnicznym. Jego przelanie/ przerwanie prowadzi do zalania polderu Golina oraz obniżenia poziomu wody w rejonie normalnego nurtu rzeki.&#10;Przewały najczęściej nie posiadają betonowego rdzenia, zatem w sytuacji kryzysowej można je celowo przerwać, aby uchronić inny teren przed zalaniem niekontrolowanym."
+        iconName="wal" name="Przewał w Kraśnicy" stringId="PVIFPB" styleId="YJYQHA"
+        typeStringId="WAL">
+        <property included="false" stringId="WAL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.14572483584271" iconY="52.20615004014111"
+                id="waly_LINE.4" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Wał przeciwpowodziowy chroniący gminę Zagórów przed zagrożeniempowodziowym ze strony rzeki Warty.&#10;&#10;Wał przeciwpowodziowy to budowla hydrotechniczna służąca sztucznemu powiększeniu kontrolowanego koryta rzeki w sytuacji&#10;powodziowej. Najczęściej ma on kształt trapezu, z rdzeniem z nieprzepuszczalnego materiału, takiego jak glina czy mata betonitowa.&#10;Bardzo duży wpływ na skuteczność i wytrzymałość wału ma podłoże, na którym jest on zbudowany - łatwo przepuszczalne podłoże może&#10;zniwelować zalety słabo przepuszczalnego, dobrze wykonanego wału podmywając go od spodu i naruszając tym samym jego&#10;konstrukcję. Duże zagrożenie dla wałów stanowią dzikie zwierzęta, któe kopiąc nory mogą ułatwić wodzie wymywanie wału."
+        iconName="wal" name="Wał w Zagórowie" stringId="RHULJH" styleId="YJYQHA" typeStringId="WAL">
+        <property included="false" stringId="WAL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.03272529374678" iconY="52.181470717727734"
+                id="waly_LINE.2" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Wał przeciwpowodziowy chroniący wieś Ląd&#10;&#10;Wał przeciwpowodziowy to budowla hydrotechniczna służąca sztucznemu powiększeniu kontrolowanego koryta rzeki w sytuacji&#10;powodziowej. Najczęściej ma on kształt trapezu, z rdzeniem z nieprzepuszczalnego materiału, takiego jak glina czy mata betonitowa.&#10;Bardzo duży wpływ na skuteczność i wytrzymałość wału ma podłoże, na którym jest on zbudowany - łatwo przepuszczalne podłoże może&#10;zniwelować zalety słabo przepuszczalnego, dobrze wykonanego wału podmywając go od spodu i naruszając tym samym jego&#10;konstrukcję. Duże zagrożenie dla wałów stanowią dzikie zwierzęta, któe kopiąc nory mogą ułatwić wodzie wymywanie wału."
+        iconName="wal" name="Wał Ląd" stringId="CETWVG" styleId="YJYQHA" typeStringId="WAL">
+        <property included="false" stringId="WAL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="waly_LINE.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Jedyny zbiornik retencyjny na rzece Warcie. Utworzony w wyniku piętrzenia zbiornik zajmuje &#10;powierzchnię 4230 ha i posiada pojemność przy maksymalnej rzędnej piętrzenia 202,8 mln. m3&#10;Zadaniem zbiornika jest :&#10;•ochrona doliny rzeki poniżej zbiornika przed powodzią&#10;•pokrycie deficytów wody dla miast Konin i Poznań&#10;•wyrównanie odpływu z zapewnieniem przepływu nienaruszalnego w wysokości 15,0 m3 / sek&#10;•wykorzystanie zrzutu wody do produkcji energii elektrycznej (3,8 MW)"
+        iconName="zbiornik_ret" name="Zbiornik Jeziorsko" stringId="FSRWVE" styleId="NTRVGL"
+        typeStringId="ZBI">
+        <property included="true" stringId="ZBI_Z" value="135">
+            <evaluations>
+                <evaluation evalMethod="MAX" max="400" min="360"/>
+            </evaluations>
+        </property>
+        <property included="false" stringId="ZBI_D" value="150"/>
+        <property included="false" stringId="ZBI_P" value="120.1"/>
+        <property included="false" stringId="ZBI_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="zbiorniki_retencyjne_POINT.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Odcinek autostrady A2 między miejscowościami Osiecza i Sługocin.&#10;&#10;Autostrada A2 to Polska droga krajowa, stanowiąca część międzynarodowej trasy E30, będącej jedną z najważniejszych europejskich&#10; tranzytowych tras równoleżnikowych. Budowę A2 rozpoczęli Niemcy po włączeniu miasta Poznania do Rzeszy w 1939 roku, &#10;ale zarzucono ją w 1942 roku. Konstrukcję wznowił rząd Polskiej Rzeczypospolitej Ludowej, ale pierwsze&#10; poważne prace powojenne rozpoczęły się dopiero w 2001 roku. W 2013 roku gotowych było 475 z &#10;planowanych 657 kilometrów autostrady. Odcinek autostrady Osieczna - Sługocin został wybudowany&#10;przez spółkę Autostrada Wielkopolska S.A. w której największy pakiet akcji posiada holding Jana Kulczyka, &#10;wieloletniego lidera rankingów najbogatszych Polaków."
+        iconName="droga" name="Autostrada A2" stringId="QLGTXC" styleId="BECWCU" typeStringId="DRO">
+        <property included="false" stringId="DRO_D" value="16.0"/>
+        <property included="false" stringId="DRO_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="drogi_LINE.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Droga w powiecie konińskim.&#10;&#10;W polskim systemie klasyfikacji kategorii dróg droga powiatowa jest trzecim, po drogach krajowych i wojewódzkich,&#10;szczeblem organizacyjnym. Drogi powiatowe należą do odpowiedniego samorządu powiatu i podlegają jego zarządowi.&#10;Do dróg powiatowych zalicza się drogi stanowiące połączenia miast będących siedzibami powiatów z siedzibami gmin i siedzib gmin między sobą."
+        iconName="droga" name="Droga powiatowa 3234P" stringId="ENIZTX" styleId="BECWCU"
+        typeStringId="DRO">
+        <property included="false" stringId="DRO_D" value="11.0"/>
+        <property included="false" stringId="DRO_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.832754526635316" iconY="52.25287124066523"
+                id="drogi_LINE.5" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Województwo&#9;wielkopolskie&#10;Powiat&#9;jarociński&#10;Rodzaj gminy&#9;miejsko-wiejska&#10;&#10;Gmina Żerków ma charakter rolny, aż 78% powierzchni gminy&#10; stanowią różnego rodzaju użytki rolne. Główne uprawy rolnicze to&#10; zboża, ziemniaki i rośliny na pasze, natomiast w hodowli zwierząt &#10;dominuje trzoda chlewna oraz hodowla bydła mlecznego. Bezrobocie w gminie &#10;jest niskie, wynosi zaledwie 5% wśród mężczyzn i 10% wśród kobiet."
+        iconName="obszar" name="Gmina Żerków" stringId="SJLHMJ" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="10510"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.21702414948329" iconY="52.04790657988952"
+                id="gminy_POLYGON.29" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Województwo&#9;wielkopolskie&#10;Powiat&#9;słupecki&#10;Rodzaj gminy&#9;miejsko-wiejska&#10;&#10;Gmina Zagórów jest stosunkowo zacofaną gminą w południowej części powiatu&#10; słupeckiego. Siedzibą władz gminy jest miasto Zagórów, które prawa miejskie&#10; otrzymało w 1407 roku. Dawniej gmina słynęła z produkcji gęsi, niemniej od paru&#10; pokoleń hodowla stanowi znikomy procent dochodów mieszkańców gminy. Ponad 20%&#10;mieszkańców gminy nie ma dostępu do sieci wodociągowej, około 68% do kanalizacyjnej.&#10;W skład gminy wchodzi 29 sołectw."
+        iconName="obszar" name="Gmina Zagórów" stringId="QVUVCQ" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="9144"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.657595099195987" iconY="52.225327276684325"
+                id="gminy_POLYGON.20" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Województwo&#9;wielkopolskie&#10;Powiat&#9;koniński&#10;Rodzaj gminy&#9;miejsko-wiejska&#10;&#10;Gmina Golina to mały ośrodek usługowo-mieszkaniowy położony na obrzeżu Konińskiego&#10; Zagłębia Węgla Brunatnego. Obejmuje obszar 99,05 km2 i liczy około 11.300 mieszkańców.&#10; W jej skład wchodzi miasto Golina oraz 18 wsi sołeckich, obejmujących łącznie 25 wsi.&#10; Po reformie administracyjnej kraju w 1998 roku, gmina Golina stanowi część powiatu&#10; konińskiego."
+        iconName="obszar" name="Gmina Golina" stringId="XIBMAB" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="11300"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.429697673993495" iconY="52.34668687040471"
+                id="gminy_POLYGON.18" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Zgodnie z ustawą o samorządzie gminnym jednym z zadań gminy jest wyposażenie i utrzymanie magazynu przeciwpowodziowego. Z uwagi na brak ustawowych uregulowań,&#10; które określałyby warunki tworzenia oraz wyposażenia gminnych magazynów przeciwpowodziowych, każda gmina samodzielnie decyduje o tym, jakie środki w zostaną&#10;w magazynie zgromadzone. Najbardziej typowymi elementami wyposażenia magazynów są agregaty prądotwórcze, worki foliowe do wypełnienia piaskiem, pompy czy też pontony."
+        iconName="magazyn" name="Gminny Magazyn Sprzętu Obrony Cywilnej w Zagórowie"
+        stringId="XARZFF" styleId="WSKWDC" typeStringId="MAG">
+        <property included="false" stringId="MAG_W" value="4000"/>
+        <property included="false" stringId="MAG_P" value="3"/>
+        <property included="false" stringId="MAG_R" value="4"/>
+        <property included="false" stringId="MAG_L" value="2"/>
+        <property included="false" stringId="MAG_A" value="4"/>
+        <property included="false" stringId="MAG_F" value="3.0"/>
+        <property included="false" stringId="MAG_G" value="3.0"/>
+        <geoIds>
+            <geoId default="true" iconX="17.922873866230063" iconY="52.17744035155806"
+                id="obiekty_POINT.1" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Zagórowska oczyszczalnia ścieków została zbudowana na terenach zalewowych polderu&#10; Zagórów. Sytuacja ta była tłumaczona przez przedstawicieli gminy brakiem obowiązujących&#10; planów zagospodarowania przestrzennego. W 2010 roku w czasie powodzi oczyszczalnię&#10; z trudem obroniono przed zalaniem dzięki wysiłkowi wojska, straży pożarnej i ochotników."
+        iconName="obiekt_kluczowy" name="Oczyszczalnia Ścieków w Zagórowie" stringId="OKJRTW"
+        styleId="WSKWDC" typeStringId="OBI">
+        <property included="false" stringId="OBI_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="obiekty_POINT.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Zgodnie z treścią ustawy o samorządzie powiatowym powiat wykonuje zadania o charakterze ponadgminnym&#10; w zakresie m. in. ochrony przeciwpożarowej, przeciwpowodziowej, w tym wyposażenia i utrzymania powiatowego magazynu&#10; przeciwpowodziowego i zapobiegania innym nadzwyczajnym zagrożeniom życia i zdrowia ludzi oraz środowiska. W świetle tej ustawy &#10;powiaty wyposażają swoje magazyny w zasoby potencjalnie przydatne przy zarządzaniu sytuacjami kryzysowymi np. agregaty, worki foliowe,&#10;łopaty czy też pompy."
+        iconName="magazyn" name="Powiatowy Magazyn Sprzętu Obrony Cywilnej Słupca" stringId="LWPBOI"
+        styleId="WSKWDC" typeStringId="MAG">
+        <property included="false" stringId="MAG_W" value="35000"/>
+        <property included="false" stringId="MAG_P" value="10"/>
+        <property included="false" stringId="MAG_R" value="12"/>
+        <property included="false" stringId="MAG_L" value="9"/>
+        <property included="false" stringId="MAG_A" value="6"/>
+        <property included="false" stringId="MAG_F" value="15.0"/>
+        <property included="false" stringId="MAG_G" value="17.0"/>
+        <geoIds>
+            <geoId default="true" iconX="17.853613156637138" iconY="52.2882653769912"
+                id="obiekty_POINT.6" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Zgodnie z treścią ustawy o samorządzie powiatowym powiat wykonuje zadania o charakterze ponadgminnym&#10; w zakresie m. in. ochrony przeciwpożarowej, przeciwpowodziowej, w tym wyposażenia i utrzymania powiatowego magazynu&#10; przeciwpowodziowego i zapobiegania innym nadzwyczajnym zagrożeniom życia i zdrowia ludzi oraz środowiska. W świetle tej ustawy &#10;powiaty wyposażają swoje magazyny w zasoby potencjalnie przydatne przy zarządzaniu sytuacjami kryzysowymi np. agregaty, worki foliowe,&#10;łopaty czy też pompy."
+        iconName="magazyn" name="Powiatowy Magazyn Sprzętu Obrony Cywilnej Konin" stringId="JMUCTN"
+        styleId="WSKWDC" typeStringId="MAG">
+        <property included="false" stringId="MAG_W" value="30000"/>
+        <property included="false" stringId="MAG_P" value="8"/>
+        <property included="false" stringId="MAG_R" value="9"/>
+        <property included="false" stringId="MAG_L" value="4"/>
+        <property included="false" stringId="MAG_A" value="5"/>
+        <property included="false" stringId="MAG_F" value="24.0"/>
+        <property included="false" stringId="MAG_G" value="21.0"/>
+        <geoIds>
+            <geoId default="true" iconX="18.209919047046498" iconY="52.234291572603574"
+                id="obiekty_POINT.4" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Wojewódzkie magazyny obrony cywilnej to istotna część sytemu państwowej obrony cywilnej. Zgodnie z ustawą województwo ma obowiązek prowadzić i &#10;zaopatrywać stosownie takie magazyny. Wyposażenie magazynu jest ujęte jako część planu obrony cywilnej danego regionu. Zwykle magazyny dysponują &#10;poza standardowymi zasobami typu worki foliowe czy narzędzia także bardziej zaawansowanym sprzętem, jak łodzie, pontony czy też maski przeciwgazowe &#10;w sytuacji zagrożenia chemicznego."
+        iconName="magazyn" name="Wojewódzki Magazyn Sprzętu Obrony Cywilnej w Koninie"
+        stringId="BFWGBG" styleId="WSKWDC" typeStringId="MAG">
+        <property included="true" stringId="MAG_W" value="250000">
+            <evaluations>
+                <evaluation evalMethod="MIN" max="1000000" min="0"/>
+                <evaluation evalMethod="MAX" max="1000000" min="0"/>
+            </evaluations>
+        </property>
+        <property included="false" stringId="MAG_P" value="45"/>
+        <property included="false" stringId="MAG_R" value="33"/>
+        <property included="false" stringId="MAG_L" value="12"/>
+        <property included="false" stringId="MAG_A" value="14"/>
+        <property included="false" stringId="MAG_F" value="87.0"/>
+        <property included="false" stringId="MAG_G" value="46.0"/>
+        <geoIds>
+            <geoId default="true" iconX="18.283631571249177" iconY="52.23563257546797"
+                id="obiekty_POINT.5" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Zgodnie z ustawą o samorządzie gminnym jednym z zadań gminy jest wyposażenie i utrzymanie magazynu przeciwpowodziowego. Z uwagi na brak ustawowych uregulowań,&#10; które określałyby warunki tworzenia oraz wyposażenia gminnych magazynów przeciwpowodziowych, każda gmina samodzielnie decyduje o tym, jakie środki w zostaną&#10;w magazynie zgromadzone. Najbardziej typowymi elementami wyposażenia magazynów są agregaty prądotwórcze, worki foliowe do wypełnienia piaskiem, pompy czy też pontony."
+        iconName="magazyn" name="Gminny Magazyn Sprzętu Obrony Cywilnej w Golinie" stringId="LHMISR"
+        styleId="WSKWDC" typeStringId="MAG">
+        <property included="false" stringId="MAG_W" value="5500"/>
+        <property included="false" stringId="MAG_P" value="5"/>
+        <property included="false" stringId="MAG_R" value="3"/>
+        <property included="false" stringId="MAG_L" value="2"/>
+        <property included="false" stringId="MAG_A" value="4"/>
+        <property included="false" stringId="MAG_F" value="3.0"/>
+        <property included="false" stringId="MAG_G" value="3.0"/>
+        <geoIds>
+            <geoId default="true" iconX="17.895138624522748" iconY="52.16839787537241"
+                id="obiekty_POINT.2" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Droga w powiecie słupeckim&#10;&#10;W polskim systemie klasyfikacji kategorii dróg droga powiatowa jest trzecim, po drogach krajowych i wojewódzkich,&#10;szczeblem organizacyjnym. Drogi powiatowe należą do odpowiedniego samorządu powiatu i podlegają jego zarządowi.&#10;Do dróg powiatowych zalicza się drogi stanowiące połączenia miast będących siedzibami powiatów z siedzibami gmin i siedzib gmin między sobą."
+        iconName="droga" name="Droga powiatowa 3090P" stringId="QLVDDI" styleId="BECWCU"
+        typeStringId="DRO">
+        <property included="false" stringId="DRO_D" value="8.0"/>
+        <property included="false" stringId="DRO_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.970533104528197" iconY="52.292675309048114"
+                id="drogi_LINE.3" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Powiat koniński obejmuje terytorium położone w środkowej części Polski, na wschodnich krańcach Wielkopolski. Zamieszkuje go prawie&#10;130 tysięcy osób. Terytorium powiatu jest ubogo wyposażone w użyteczne zasoby naturalne. Największym, eksploatowanym bogactwem jest węgiel brunatny, &#10;którego złoża położone są na północ od Konina. W skład terytorium powiatu konińskiego wchodzi 14 gmin. Ludność zamieszkująca tereny wiejskie stanowi&#10; 86% ludności powiatu ogółem. Powiat koniński jest czwartym co do wielkości powiatem w Polsce."
+        iconName="obszar" name="Powiat koniński" stringId="XTAJIL" styleId="FTAVEG"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="127869"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="18.766569945809355" iconY="52.237777124112306"
+                id="powiaty_POLYGON.3" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Powiat słupecki znajduje się w środkowo-wschodniej części województwa wielkopolskiego; cechuje go wydłużony południkowy kształt.&#10; W centralnej części powiatu rozpościera się szeroka dolina Warty. Jest to powiat mało zamożny, w większości wskaźników ekonomicznych klasyfikowany&#10;na końcu województwa wielkopolskiego. W 2011 roku bezrobocie w powiecie osiągnęło najwyższy od 2007 poziom, &#10;16,8%. Powiat zamieszkuje prawie 60 tysięcy mieszkańców, których liczba od lat stabilnie spada."
+        iconName="obszar" name="Powiat słupecki" stringId="HIUYFY" styleId="FTAVEG"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="59792"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="16.944309439401266" iconY="52.39435418153211"
+                id="powiaty_POLYGON.6" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Polder Zagórów odegrał ważną rolę w kontrolowaniu skutków powodzi w 2010&#10;roku, kiedy wojewoda Piotr Florek zadecydował o zalaniu polderu 3 mln metrów&#10;szcześciennych wody aby zmniejszyć zagrożenie niekontrolowanego &#10;przerwania wałów. Niestety jak znaczna część polskich polderów, jest&#10;on częściowo zabudowany co ogranicza jego efektywność. Wynika to często z braku miejscowych planów&#10;zagospodarowania przestrzennego, jak i z częstej na terenach wiejskich samowoli budowlanej."
+        iconName="polder" name="Polder Zagórów" stringId="RMTBER" styleId="RZZLTS"
+        typeStringId="POL">
+        <property included="false" stringId="POL_M" value="560"/>
+        <property included="false" stringId="POL_Z" value="500"/>
+        <property included="false" stringId="POL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="poldery_POLYGON.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Polder Pyzdry VII" iconName="polder" name="Polder Pyzdry" stringId="NZXIOT"
+        styleId="RZZLTS" typeStringId="POL">
+        <property included="false" stringId="POL_M" value="290"/>
+        <property included="false" stringId="POL_Z" value="400"/>
+        <property included="false" stringId="POL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.97864898366657" iconY="52.19688479375559"
+                id="poldery_POLYGON.3" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Ujęcie i stacja uzdatniania wody - Wrąbczynek, wydajność 72,00 m3/h. Obsługuje szereg pobliskich wsi."
+        iconName="obiekt_kluczowy" name="Ujęcie i stacja uzdatniania wody we Wrąbczynku"
+        stringId="NYCTPL" styleId="WSKWDC" typeStringId="OBI">
+        <property included="false" stringId="OBI_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.824554936899034" iconY="52.177310456730766"
+                id="obiekty_POINT.20" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Powiat w południowo-wschodniej części wielkopolski, utworzony w ramach reformy administracyjnej &#10;w 1999 roku. Jego siedzibą jest miasto Jarocin (26 tysięcy mieszkańców), a cały powiat zamieszkuje ponad 70 tysięcy mieszkańców.&#10;Gospodarka powiatu jest oparta głównie na wytwórstwie produktów rolnych i na branży odzieżowej."
+        iconName="obszar" name="Powiat jarociński" stringId="NFZJQF" styleId="FTAVEG"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="70314"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="18.262119254573115" iconY="52.25534662462821"
+                id="powiaty_POLYGON.1" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Reaktywowany w 1999 powiat w województwie wielkopolskim. Jego stoilcą jest 18-tysięczny Pleszew."
+        iconName="obszar" name="Powiat pleszewski" stringId="ZIYTCP" styleId="FTAVEG"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="61842"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="18.264038020319738" iconY="52.28004330395185"
+                id="powiaty_POLYGON.4" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Powiat w skrajnie wschodniej części województwa wielkopolskiego z siedzibą w Kole. Powiat liczy 89 tysięcy mieszkańców, z czego 23 tysiące przypadają&#10;na ośrodek miejski Koło. Powiat jest siedzibą znanych firm, między innymi Sanitec Koło (urządzenia sanitarne) i zakładów mięsnych Sokołów. &#10;Powiat ma długą historię, gdyż pierwszy okrąg administracyjny z siedzibą w Kole powstał w 1867 roku w Królestwie Polskim."
+        iconName="obszar" name="Powiat kolski" stringId="ILPNAW" styleId="FTAVEG" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="88759"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.515927276720188" iconY="51.990982738738616"
+                id="powiaty_POLYGON.2" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Łuk znajduje się na drodze z Ślesina do Sompolna. Został on wzniesiony w 1812 roku przez mieszkańców najprawdopodobniej na cześć Księcia Warszawskiego Fryderyka Augusta. &#10;Potocznie jest nazywany Bramą Napoleona, choć raczej nie ku jego chwale został wzniesiony."
+        iconName="obiekt_kluczowy" name="Łuk Napoleona w Ślesinie" stringId="ZJJUYG"
+        styleId="WSKWDC" typeStringId="OBI">
+        <property included="false" stringId="OBI_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.309743710937525" iconY="52.37143064302885"
+                id="obiekty_POINT.21" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Popularny wśród wędkarzy akwen, będący sztucznym jeziorem utworzonym na miejscu torfowiska. Zbudowano je w latach 1954-55.&#10;Ze względu na wysokie zanieczyszczenie wody w jeziorze nie jest zalecana kąpiel. W przeszłości jezioro było areną zawodów motorowodnych."
+        iconName="obiekt_kluczowy" name="Jezioro słupeckie" stringId="ZHTQTX" styleId="WSKWDC"
+        typeStringId="OBI">
+        <property included="false" stringId="OBI_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.89217068298229" iconY="52.29815704910154"
+                id="obiekty_POINT.22" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Miłosław to obszar położony na południowo-zachodnim krańcu powiatu wrzesińskiego.&#10;Ludność: 10 514 (z tego 3560 w Miłosławiu)&#10;Powierzchnia: 132 km2 (Użytki rolne 58%, użytki leśne 30%)"
+        iconName="obszar" name="Gmina Miłosław" stringId="KKRPXK" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="10514"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.60516630854875" iconY="52.071281309222094"
+                id="gminy_POLYGON.1" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Jaraczewo położona jest we wschodniej części województwa wielkopolskiego, jednocześnie stanowi jedną z czterech gmin powiatu jarocińskiego. &#10;Ludność: 8 339 (w tym 1392 Jaraczewo)&#10;Powierzchnia: 133 km2 (użytki rolne: 76%, użytki leśne: 17%)"
+        iconName="obszar" name="Gmina Jaraczewo" stringId="DMKHVA" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="8339"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.01261048017343" iconY="52.09126849883822"
+                id="gminy_POLYGON.26" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina miejsko-wiejska Września, centrum powiatu wrzesińskiego.&#10;Ludność: 43 596 (z tego 29144 we Wrześni)&#10;Powierzchnia: 222 km2 (użytki rolne: 82%, użytki leśne: 8%)"
+        iconName="obszar" name="Gmina Września" stringId="NHKXQL" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="43456"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.639842705387967" iconY="51.941880156197364"
+                id="gminy_POLYGON.4" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Kołaczkowo - z siedzibą w dużej wsi Kołaczkowo leżącej przy szosie z Wrześni do Kalisza.&#10;Ludność: 6 300 (z tego 820 w Kołaczkowie)&#10;Powierzchnia: 116 km2 (użytki rolne: 86%, użytki leśne: 7%)"
+        iconName="obszar" name="Gmina Kołaczkowo" stringId="BZZQQZ" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="6300"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.504183904909304" iconY="51.96683642106646"
+                id="gminy_POLYGON.3" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Pyzdry - gmina miejsko-wiejska w województwie wielkopolskim, na południowym skraju powiatu wrzesińskiego.&#10;Ludność: 7 578 (z tego 3203 w Pyzdrach)&#10;Powierzchnia: 138 km2 (użytki rolne: 62%, użytki leśne: 30%)"
+        iconName="obszar" name="Gmina Pyzdry" stringId="DBKINE" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="7578"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.33972160849497" iconY="51.95557684702088"
+                id="gminy_POLYGON.2" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Strzałkowo to gmina wiejska w województwie wielkopolskim. Przed reformą administracyjną należała do&#10;województwa konińskiego.&#10;Ludność: 9 557 (z tego 5140 w Strzałkowie)&#10;Powierzchnia: 143 km2 (użytki rolne: 86%, użytki leśne: 10%)"
+        iconName="obszar" name="Gmina Strzałkowo" stringId="GOSRNP" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="9557"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.378820543106976" iconY="52.29328084760606"
+                id="gminy_POLYGON.22" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Lądek - gmina wiejska w powiecie słupeckim.&#10;Ludność: 5 853 (z tego 790 w Lądku)&#10;Powierzchnia: 98 km2 (użytki rolne: 89%, użytki leśne: 3%)"
+        iconName="obszar" name="Gmina Lądek" stringId="BFWDXH" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="5853"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.514821133307457" iconY="52.18786367043255"
+                id="gminy_POLYGON.21" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Słupca - gmina wiejska w powiecie słupeckim. SIedzibą gminy jest miasto Słupca.&#10;Ludność: 9 149&#10;Powierzchnia: 145 km2 (użytki rolne: 92%, użytki leśne: 4%)"
+        iconName="obszar" name="Gmina Słupca" stringId="YSEPMH" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="9149"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.393323036890763" iconY="52.06287499772543"
+                id="gminy_POLYGON.24" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Ostrowite znajduje się w województwie wielkopolskim, we wschodniej części powiatu słupeckiego.&#10;Ludność: 5 300&#10;Powierzchnia: 104,4 km2 (użytki rolne: 81%, użytki leśne: 7%)"
+        iconName="obszar" name="Gmina Ostrowite" stringId="SNWCAR" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="5300"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="16.892270288882553" iconY="52.150597337454215"
+                id="gminy_POLYGON.25" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Orchowo - gmina na północnym skraju powiatu słupeckiego. Przed reformą administracyjną była częścią województwa konińskiego.&#10;Ludność: 4 031&#10;Powierzchnia: 98 km2 (użytki rolne: 72%, użytki leśne: 18%)"
+        iconName="obszar" name="Gmina Orchowo" stringId="DSOZIQ" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="4031"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.586709054356835" iconY="52.33002119753345"
+                id="gminy_POLYGON.19" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Powidz - niewielka gmina wtłoczona pomiędzy dwa największe jeziora regionu - Powidzkie i Niedzięgiel. Znana miejscowość &#10;turystyczna ze względu na warunki do uprawiania sportów wodnych. Jest to najmniej ludna gmina w Wielkopolsce.&#10;Ludność: 2 073 (z tego 1000 w Powidzu)&#10;Powierzchnia: 80 km2 (użytki rolne: 28%, użytki leśne: 47%)"
+        iconName="obszar" name="Gmina Powidz" stringId="PJQKZL" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="2073"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.35246258454741" iconY="52.13206284890778"
+                id="gminy_POLYGON.23" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Rzgów, z siedzibą w Rzgowie Pierwszym, to gmina w powiecie konińskim.&#10;Ludność: 6840&#10;Powierzchnia: 104,68 km2 (użytki rolne: 71%, użytki leśne: 20%)"
+        iconName="obszar" name="Gmina Rzgów" stringId="SULKVJ" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="6840"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.89442963675484" iconY="52.213557338144916"
+                id="gminy_POLYGON.8" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Grodziec położona w województwie wielkopolskim, w powiecie konińskim.&#10;Ludność: 5251 (z tego 3000 Grodziec)&#10;Powierzchnia: 117 km2 (użytki rolne: 56%, użytki leśne: 37%)"
+        iconName="obszar" name="Gmina Grodziec" stringId="WEFFCP" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="5251"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.020672810246573" iconY="52.51028206074347"
+                id="gminy_POLYGON.5" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Kazimierz Biskupi - gmina w powiecie konińskim. Lotnisko w Kazimierzu jest siedzibą Aeroklubu Konińskiego.&#10;Ludność: 11112 (w tym 4400 w Kazimierzu Biskupim)&#10;Powierzchnia: 108 km2 (użytki rolne: 43%, użytki leśne: 26%)"
+        iconName="obszar" name="Gmina Kazimierz Biskupi" stringId="DPWUTX" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="11110"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.15189848719252" iconY="52.06645709630688"
+                id="gminy_POLYGON.17" name="gmina Kazimierz Biskupi"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Kleczew zlokalizowana jest w centralnej części powiatu konińskiego. Siedzibą gminy jest miasto Kleczew.&#10;Ludność: 9729 (w tym 4200 w Kleczewie)&#10;Powierzchnia: 110 km2 (użytki rolne: 75%, użytki leśne: 1%)"
+        iconName="obszar" name="Gmina Kleczew" stringId="POKMKG" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="9729"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.035517649411904" iconY="52.036508344612145"
+                id="gminy_POLYGON.16" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Wilczyn - położona na północy powiatu konińskiego. SIedzibą gminy jest wieś o tej samej nazwie.&#10;Ludność: 6 400 (w tym 1200 w Wilczynie)&#10;Powierzchnia: 83 km2 (użytki rolne: 77%, użytki leśne: 10%)"
+        iconName="obszar" name="Gmina Wilczyn" stringId="NUSWTP" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="6400"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.5194485698495" iconY="52.3544675539076"
+                id="gminy_POLYGON.15" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina miejsko-wiejska Rychwał jest położona na połudnowym skraju powiatu konińskiego.&#10;Siedzibą gminy jest miasto Rychwał.&#10;Ludność: 8425&#10;Powierzchnia:118 km2 (użytki rolne: 77%, użytki leśne: 15%)"
+        iconName="obszar" name="Gmina Rychwał" stringId="EFYSLM" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="8425"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.93408941488792" iconY="52.430548994457716"
+                id="gminy_POLYGON.6" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina wiejska na południu powiatu konińskiego. Siedzibą gminy jest wieś Stare Miasto.&#10;Ludność: 10070 (w tym 1500 w Starym Mieście)&#10;Powierzchnia: 97 km2 (użytki rolne: 77%, użytki leśne: 15%)"
+        iconName="obszar" name="Gmina Stare Miasto" stringId="VYHPJM" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="10070"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.791504280360556" iconY="52.32376617721403"
+                id="gminy_POLYGON.7" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina miejsko-wiejska Ślesin jest zlokalizowana tuż na północ od Konina w powiecie konińskim.&#10;Siedzibą gminy jest miasto Ślesin.&#10;Ludność: 12 942 (w tym 3100 w Ślesinie)&#10;Powierzchnia: 146 km2 (użytki rolne: 59%, użytki leśne: 21%)"
+        iconName="obszar" name="Gmina Ślesin" stringId="AGAMOU" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="12942"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.48764478107146" iconY="52.4425281035713"
+                id="gminy_POLYGON.14" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina wiejska Skulsk leży na północnym skraju powiatu konińskiego. SIedzibą gminy jest wieś Skulsk.&#10;Ludność: 6 100 (w tym 1400 w Skulsku)&#10;Powierzchnia: 85 km2 (użytki rolne: 76%, użytki leśne: 6%)"
+        iconName="obszar" name="Gmina Skulsk" stringId="UNVVEL" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="6100"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.897597299019623" iconY="52.136260195214604"
+                id="gminy_POLYGON.10" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina wiejska Kramsk, z siedzibą we wsi o tej nazwie, znajduje się w środkowej części powiatu konińskiego.&#10;Ludność: 9 900 (w tym 1700 w Kramsku)&#10;Powierzchnia: 132 km2 (użytki rolne: 76%, użytki leśne: 12%)"
+        iconName="obszar" name="Gmina Kramsk" stringId="BSHFYT" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="9900"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.139718779935503" iconY="52.401139548962654"
+                id="gminy_POLYGON.13" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina wiejska Krzymów. Gmina leży w dolinie Warty. Na południu gminy znajduje&#10; się Wysoczyzna Turecka z największym wzniesieniem powiatu koninskiego Złotą Górą 181 m n.p.m.&#10;Ludność: 10318 (w tym 524 Krzymów)&#10;Powierzchnia: 92 km2 (użytki rolne: 67%, użytki leśne: 24%)"
+        iconName="obszar" name="Gmina Krzymów" stringId="QJBJTH" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="10318"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.730470113079477" iconY="52.14549672713955"
+                id="gminy_POLYGON.9" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Wierzbinek znajduje się na północno wschodnim skraju powiatu konińskiego. Jest to gmina wiejska.&#10;Ludność: 7 700 (w tym 500 Wierzbinek)&#10;Powierzchnia: 148 km2 (użytki rolne: 81%, użytki leśne: 11%)"
+        iconName="obszar" name="Gmina Wierzbinek" stringId="PGVWBO" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="7700"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.18058368721636" iconY="52.46051617768515"
+                id="gminy_POLYGON.11" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina miejsko-wiejska Sompolno z siedzibą w mieście Sompolnie.&#10;Ludność: 10 500 (w tym 3624 Sompolno)&#10;Powierzchnia: 137 km2 (użytki rolne: 72%, użytki leśne: 11%)"
+        iconName="obszar" name="Gmina Sompolno" stringId="UDBXIS" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="10500"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.33003079782905" iconY="52.476996270128375"
+                id="gminy_POLYGON.12" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Konin - miasto we wschodniej wielkopolsce na prawach powiatu. Przed reformą administracyjną (od 1975 do 1998 roku)&#10;Konin był stolicą województwa konińskiego. Miasto leży na terenach bogatych w węgiel brunatny, czego rezultatem jest powstanie szeregu kopalni&#10;i elektrowni w okolicy miasta. Zespól Elektrowni Pątnów-Adamów-Konin wytwarza około 8,5% całej energii elektrycznej w Polsce."
+        iconName="miasto" name="Miasto Konin" stringId="MSJMBV" styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="78007"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="miejscowosci_POINT.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Miasto w powiecie wrzesińskim." iconName="miasto" name="Miasto Miłosław"
+        stringId="RZSJDR" styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="3560"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.565015529593655" iconY="52.32606784731815"
+                id="miejscowosci_POINT.3" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Siedziba gminy Żerków" iconName="miasto" name="Miasto Żerków" stringId="YRNRFJ"
+        styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="2127"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.47747734029452" iconY="52.1278784260492"
+                id="miejscowosci_POINT.5" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Wieś w gminie Zagórów." iconName="miasto" name="Wieś Kopojno" stringId="DXXAGE"
+        styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="850"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.900163499079277" iconY="52.16916610123639"
+                id="miejscowosci_POINT.13" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Miasto w województwie wielkopolskim, któremu nadano prawa miejskie w 1375 roku. Pierwsze wzmianki&#10;o Wrześni pochodzą jednak aż z 1256 roku, który to uważa się za datę założenia miasta. Wcześniej w okolicy&#10;dzisiajszej Wrześni funkcjonował aktywny ośrodek ze spotych rozmiarów grodem (4,7 hektara)."
+        iconName="miasto" name="Miasto Września" stringId="ASDPKS" styleId="YBGNAK"
+        typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="29144"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.095480348754403" iconY="52.243262443867415"
+                id="miejscowosci_POINT.2" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Duża wieś w powiecie wrzesińskim." iconName="miasto" name="Wieś Orzechowo"
+        stringId="RFQCMB" styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="2500"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.485745736289974" iconY="52.2018208620289"
+                id="miejscowosci_POINT.4" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Siedziba powiatu miejsko - wiejskiego Pyzdry." iconName="miasto"
+        name="Miasto Pyzdry" stringId="DMSXHC" styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="3203"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.563279764942237" iconY="52.06888059564098"
+                id="miejscowosci_POINT.6" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Wieś w gminie Lądek." iconName="miasto" name="Wieś Ratyń" stringId="POSBFE"
+        styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="1300"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.89385137593014" iconY="52.207657420234426"
+                id="miejscowosci_POINT.9" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Siedziba gminy wiejskiej o tej samej nazwie." iconName="miasto"
+        name="Miasto Słupca" stringId="IDJGQP" styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="14186"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.18124443890144" iconY="52.230000736036246"
+                id="miejscowosci_POINT.11" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Siedziba gminy Zagórów." iconName="miasto" name="Miasto Zagórów"
+        stringId="LCKIKR" styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="2974"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.872032587828933" iconY="52.29171954187664"
+                id="miejscowosci_POINT.12" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Liczące nieco ponad 30 tysięcy mieszkańców miasto w centralnej wielkopolsce."
+        iconName="miasto" name="Miasto Śrem" stringId="LMMBVU" styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="30343"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.215412501642287" iconY="52.181508014803406"
+                id="miejscowosci_POINT.15" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Wieś w gminie Lądek." iconName="miasto" name="Wieś Ląd" stringId="TWMTJU"
+        styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="563"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.812589199051704" iconY="52.2109307971821"
+                id="miejscowosci_POINT.8" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Wieś w gminie Lądek. Znajduje się tutaj przeprawa przez Wartę."
+        iconName="miasto" name="Wieś Ciążeń" stringId="GTWENV" styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="1300"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.679093946641498" iconY="52.169361663070354"
+                id="miejscowosci_POINT.7" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Wieś leżąca niedaleko Konina" iconName="miasto" name="Wieś Kraśnica"
+        stringId="TXLHTX" styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="50"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.986636375590535" iconY="52.1980378202126"
+                id="miejscowosci_POINT.10" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Mała wieś w powiecie konińskim." iconName="miasto" name="Wieś Stare Miasto"
+        stringId="WWEXEP" styleId="YBGNAK" typeStringId="MIA">
+        <property included="false" stringId="MIA_M" value="1500"/>
+        <property included="false" stringId="MIA_S" value="1"/>
+        <property included="false" stringId="MIA_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.983398954060508" iconY="52.1668319020838"
+                id="miejscowosci_POINT.14" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Droga wojewódzka nr 442&#10;Łączy Wrześnię z Kaliszem&#10;Długość 73 km&#10;&#10;W polskim systemie klasyfikacji kategorii dróg droga wojewódzka jest drugim, po drogach krajowych,&#10;szczeblem organizacyjnym. Drogi powiatowe należą do odpowiedniego samorządu województwa i podlegają jego zarządowi.&#10;Drogi wojewódzkie to zwykle połączenia między miastami, mające znaczenie dla województwa."
+        iconName="droga" name="Droga wojewódzka 442" stringId="CWYZMO" styleId="BECWCU"
+        typeStringId="DRO">
+        <property included="false" stringId="DRO_D" value="73.0"/>
+        <property included="false" stringId="DRO_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.877281049513122" iconY="52.229071394663904"
+                id="drogi_LINE.1" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Droga wojewódzka nr 466&#10;Łączy Słupcę z Pyzdrami&#10;Długość 20 km&#10;&#10;W polskim systemie klasyfikacji kategorii dróg droga wojewódzka jest drugim, po drogach krajowych,&#10;szczeblem organizacyjnym. Drogi powiatowe należą do odpowiedniego samorządu województwa i podlegają jego zarządowi.&#10;Drogi wojewódzkie to zwykle połączenia między miastami, mające znaczenie dla województwa."
+        iconName="droga" name="Droga wojewódzka 466" stringId="XXKDRM" styleId="BECWCU"
+        typeStringId="DRO">
+        <property included="false" stringId="DRO_D" value="20.0"/>
+        <property included="false" stringId="DRO_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.889766821339872" iconY="52.23898358278367"
+                id="drogi_LINE.4" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Droga krajowa nr 92&#10;Łączy Rzepin przez Poznań, Warszawę, z Mińskiem Mazowieckim&#10;Długość całkowita 472 km &#10;Odcinek Września - Konin 50,6 km&#10;&#10;W polskim systemie klasyfikacji kategorii dróg droga krajowa jest pierwszym&#10;szczeblem organizacyjnym. Drogi krajowe są rekomendowane do ruchu tranzytowego i długodystansowego."
+        iconName="droga" name="Droga krajowa 92" stringId="TIVRRD" styleId="BECWCU"
+        typeStringId="DRO">
+        <property included="false" stringId="DRO_D" value="50.6"/>
+        <property included="false" stringId="DRO_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.786307115738303" iconY="52.06454008429915"
+                id="drogi_LINE.2" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Wał przeciwpowodziowy chroniący okolice wsi Solec.&#10;&#10;Wał przeciwpowodziowy to budowla hydrotechniczna służąca sztucznemu powiększeniu kontrolowanego koryta rzeki w sytuacji&#10;powodziowej. Najczęściej ma on kształt trapezu, z rdzeniem z nieprzepuszczalnego materiału, takiego jak glina czy mata betonitowa.&#10;Bardzo duży wpływ na skuteczność i wytrzymałość wału ma podłoże, na którym jest on zbudowany - łatwo przepuszczalne podłoże może&#10;zniwelować zalety słabo przepuszczalnego, dobrze wykonanego wału podmywając go od spodu i naruszając tym samym jego&#10;konstrukcję. Duże zagrożenie dla wałów stanowią dzikie zwierzęta, któe kopiąc nory mogą ułatwić wodzie wymywanie wału."
+        iconName="wal" name="Wał Osiecza" stringId="OTAIZI" styleId="YJYQHA" typeStringId="WAL">
+        <property included="false" stringId="WAL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.95792801003291" iconY="52.18138274648785"
+                id="waly_LINE.3" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Wał przeciwpowodziowy chroniący poldery na północ od Tarszewa&#10;&#10;Wał przeciwpowodziowy to budowla hydrotechniczna służąca sztucznemu powiększeniu kontrolowanego koryta rzeki w sytuacji&#10;powodziowej. Najczęściej ma on kształt trapezu, z rdzeniem z nieprzepuszczalnego materiału, takiego jak glina czy mata betonitowa.&#10;Bardzo duży wpływ na skuteczność i wytrzymałość wału ma podłoże, na którym jest on zbudowany - łatwo przepuszczalne podłoże może&#10;zniwelować zalety słabo przepuszczalnego, dobrze wykonanego wału podmywając go od spodu i naruszając tym samym jego&#10;konstrukcję. Duże zagrożenie dla wałów stanowią dzikie zwierzęta, któe kopiąc nory mogą ułatwić wodzie wymywanie wału."
+        iconName="wal" name="Wał Tarszewski" stringId="FVOYPC" styleId="YJYQHA" typeStringId="WAL">
+        <property included="false" stringId="WAL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.97929295050768" iconY="52.192838122384835"
+                id="waly_LINE.1" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Wał przeciwpowodziowy chroniący gminę Żerków przed zagrożeniem powodziowym ze strony rzeki Prosny.&#10;&#10;Wał przeciwpowodziowy to budowla hydrotechniczna służąca sztucznemu powiększeniu kontrolowanego koryta rzeki w sytuacji&#10;powodziowej. Najczęściej ma on kształt trapezu, z rdzeniem z nieprzepuszczalnego materiału, takiego jak glina czy mata betonitowa.&#10;Bardzo duży wpływ na skuteczność i wytrzymałość wału ma podłoże, na którym jest on zbudowany - łatwo przepuszczalne podłoże może&#10;zniwelować zalety słabo przepuszczalnego, dobrze wykonanego wału podmywając go od spodu i naruszając tym samym jego&#10;konstrukcję. Duże zagrożenie dla wałów stanowią dzikie zwierzęta, któe kopiąc nory mogą ułatwić wodzie wymywanie wału."
+        iconName="wal" name="Wał w Żerkowie" stringId="ACTMMJ" styleId="YJYQHA" typeStringId="WAL">
+        <property included="false" stringId="WAL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.139053372834084" iconY="52.21024851055129"
+                id="waly_LINE.5" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Wał przeciwpowodziowy chroniący okolice wsi Osiecza Pierwsza i Osiecza Druga jak i Miejsce Obsługi Podróżnych Osiecza na autostradzie A2.&#10;&#10;Wał przeciwpowodziowy to budowla hydrotechniczna służąca sztucznemu powiększeniu kontrolowanego koryta rzeki w sytuacji&#10;powodziowej. Najczęściej ma on kształt trapezu, z rdzeniem z nieprzepuszczalnego materiału, takiego jak glina czy mata betonitowa.&#10;Bardzo duży wpływ na skuteczność i wytrzymałość wału ma podłoże, na którym jest on zbudowany - łatwo przepuszczalne podłoże może&#10;zniwelować zalety słabo przepuszczalnego, dobrze wykonanego wału podmywając go od spodu i naruszając tym samym jego&#10;konstrukcję. Duże zagrożenie dla wałów stanowią dzikie zwierzęta, któe kopiąc nory mogą ułatwić wodzie wymywanie wału."
+        iconName="wal" name="Wał Solec" stringId="EDTHLC" styleId="YJYQHA" typeStringId="WAL">
+        <property included="false" stringId="WAL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.63931721220037" iconY="52.108650773961614"
+                id="waly_LINE.6" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Lewobrzeżny polder zalewowy na rzece Warcie." iconName="polder"
+        name="Polder Tarszewo" stringId="ELCGKY" styleId="RZZLTS" typeStringId="POL">
+        <property included="false" stringId="POL_M" value="190"/>
+        <property included="false" stringId="POL_Z" value="220"/>
+        <property included="false" stringId="POL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.950464747129377" iconY="52.179067389651294"
+                id="poldery_POLYGON.1" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="Polder Lądek zlokalizowany na południe od wsi Lądek. Graniczy z autostradą A2"
+        iconName="polder" name="Polder Lądek" stringId="XIZITX" styleId="RZZLTS" typeStringId="POL">
+        <property included="false" stringId="POL_M" value="0"/>
+        <property included="false" stringId="POL_Z" value="0"/>
+        <property included="false" stringId="POL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.035760327243068" iconY="52.17521250691308"
+                id="poldery_POLYGON.2" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="polder" name="Polder Osiecza" stringId="CLZZHT" styleId="RZZLTS"
+        typeStringId="POL">
+        <property included="false" stringId="POL_M" value="200"/>
+        <property included="false" stringId="POL_Z" value="140"/>
+        <property included="false" stringId="POL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.074296139529935" iconY="52.18417400699208"
+                id="poldery_POLYGON.6" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Sporny charakter ziemi zalewowej, jaką jest polder Golina, zarysował się już&#10;w latach 70. Formalnoprawnie &quot;polder Golina&quot; nadal nie jest obiektem&#10;hydrotechnicznym ze względu na brak urządzeń regulujących wpływ i wypływ&#10;wody do i z polderu do koryta warty. Rodzi to kontrowersje prawne, gdyż brak &#10;jasnego statusu ziemi w polderze utrudnia mieszkańcom ubieganie się o &#10;odszkodowania. Podczas powodzi w 2010 r. zalanych zostało 86 gospodarstw&#10; i ucierpiało ponad 300 mieszkańców. W planach jest 250-milionowa inwestycja zabezpieczająca&#10;tereny polderu przed niekontrolowanym zalaniem, która zostanie rozpoczęta prawdopodobnie w &#10;2014 roku."
+        iconName="polder" name="Polder Golina" stringId="NZXIOY" styleId="RZZLTS" typeStringId="POL">
+        <property included="false" stringId="POL_M" value="370"/>
+        <property included="false" stringId="POL_Z" value="450"/>
+        <property included="false" stringId="POL_S" value="3"/>
+        <geoIds>
+            <geoId default="true" iconX="18.115995440988712" iconY="52.22075468632835"
+                id="poldery_POLYGON.5" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina miejsko-wiejska Jarocin&#10;Ludność: 45 000 (w tym 26900 w Jarocinie)&#10;Powierzchnia: 200 km2 (użytki rolne: 64%, użytki leśne: 26%)"
+        iconName="obszar" name="Gmina Jarocin" stringId="HTHIOO" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="45000"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.184573994789435" iconY="52.15977569470596"
+                id="gminy_POLYGON.27" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Dolsk – gmina miejsko-wiejska w województwie wielkopolskim, w powiecie śremskim.&#10;Ludność: 5 766 (w tym 1554 w Dolsku)&#10;Powierzchnia: 125 km2 (użytki rolne: 69%, użytki leśne: 19%)"
+        iconName="obszar" name="Gmina Dolsk" stringId="LPXGAE" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="5776"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.324812510254528" iconY="52.36854202533213"
+                id="gminy_POLYGON.31" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Książ Wielkopolski to gmina miejsko-wiejska w województwie wielkopolskim, w powiecie śremskim.&#10;Ludność: 8 334 (w tym 2783 w Książu Wielkopolskim)&#10;Powierzchnia: 148 km2 (użytki rolne: 67%, użytki leśne: 23%)"
+        iconName="obszar" name="Gmina Książ Wielkopolski" stringId="ZQKPUZ" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="8334"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.079426776462327" iconY="52.15455051611313"
+                id="gminy_POLYGON.30" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina w powiecie śremskim.&#10;Ludność: 4 550 (w tym 772 w Brodnicy)&#10;Powierzchnia: 96 km2 (użytki rolne: 69%,użytki leśne: 28%)"
+        iconName="obszar" name="Gmina Brodnica" stringId="NXIRJK" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="4550"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.15080942075734" iconY="52.31280209965701"
+                id="gminy_POLYGON.32" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina miejsko-wiejska w powiecie śremskim.&#10;Ludność: 39 809 (w tym 30343 w Śremie)&#10;Powierzchnia: 206 km2 (użytki rolne: 22,09%, użytki leśne: 16,85%)"
+        iconName="obszar" name="Gmina Śrem" stringId="RXVSXK" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="39809"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.226336752470907" iconY="52.15099298535133"
+                id="gminy_POLYGON.33" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Nowe Miasto nad Wartą w powiecie średzkim.&#10;Ludność: 9.193 (w tym 1543 w Nowym Mieście nad Wartą)&#10;Powierzchnia: 119 km2 (użytki rolne: 72%, użytki leśne: 19%)"
+        iconName="obszar" name="Gmina Nowe Miasto nad Wartą" stringId="WTWQPC" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="9193"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.366766387427347" iconY="52.18226297237727"
+                id="gminy_POLYGON.35" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Zaniemyśl w powiecie średzkim.&#10;Ludność: 6 196 (w tym 2200 w Zaniemyślu)&#10;Powierzchnia: 107 km2 (użytki rolne: 65%, użytki leśne: 25%)"
+        iconName="obszar" name="Gmina Zaniemyśl" stringId="HQWPIW" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="6196"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.262129676361933" iconY="52.25500679497771"
+                id="gminy_POLYGON.36" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Krzykosy leży w obszarze chronionego krajobrazu Pradoliny Warciańsko-Obrzańskiej. Rzeka Rzeka Warta stanowi jej południową granicę.&#10;Ludność: 6 508 (w tym ok. 800 osób w Krzykosach)&#10;Powierzchnia: 110,5 km2 (użytki rolne: 63%, użytki leśne: 28%)"
+        iconName="obszar" name="Gmina Krzykosy" stringId="QQZBNV" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="6508"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.102638385898192" iconY="52.24591402402307"
+                id="gminy_POLYGON.37" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Mała gmina wiejska w powiecie średzkim&#10;Ludność: 2 844 (w tym mniej niż 1000 w Dominowie)&#10;Powierzchnia: 79 km2 (użytki rolne: 85%, użytki leśne: 7%)"
+        iconName="obszar" name="Gmina Dominowo" stringId="OFCIAS" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="2844"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.303040636995636" iconY="52.232731386982216"
+                id="gminy_POLYGON.38" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Środa Wielkopolska – gmina miejsko-wiejska w województwie wielkopolskim, w powiecie średzkim.&#10;Ludność: 30.362 (w tym 22325 w Środzie Wielkopolskiej)&#10;Powierzchnia: 207,1 km2 (użytki rolne: 83%, użytki leśne: 7%)"
+        iconName="obszar" name="Gmina Środa Wielkopolska" stringId="AKWDSY" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="30362"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.015471409404626" iconY="52.384798590349384"
+                id="gminy_POLYGON.39" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Gmina Nekla to niewielka gmina w północnej części powiatu wrzesińskiego. &#10;Ludność: 6 578 (z tego 3500 w Nekli)&#10;Powierzchnia: 96 km2 (64% użytki rolne, 31% użytki leśne)"
+        iconName="obszar" name="Gmina Nekla" stringId="XDMULC" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="6578"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="gminy_POLYGON.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Rzeka Warta w dolnym biegu" stringId="DLJRVB"
+        styleId="XUVYSD" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="rzeki_normalnie_LINE.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Rzeka Warta - rozlew faza I" stringId="DLJRVU"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="rzeki_rozlew_fazaI_POLYGON.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Rzeka Warta - rozlew faza II" stringId="DLJRVJ"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="rzeki_rozlew_fazaII_POLYGON.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Rzeka Warta - rozlew faza III" stringId="DLJRVF"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="rzeki_rozlew_fazaIII_POLYGON.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Rzeka Prosna" stringId="ORVSTH" styleId="XUVYSD"
+        typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="rzeki_normalnie_LINE.4"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Obszar zalania w gminie Żerków I" stringId="RRDXII"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="rzeki_rozlew_zerkow_fazaI_POLYGON.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Obszar zalania w gminie Żerków II" stringId="BJSNRI"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="rzeki_rozlew_zerkow_fazaII_POLYGON.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Obszar zalania w gminie Żerków III" stringId="HBSVSD"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="rzeki_rozlew_zerkow_fazaIII_POLYGON.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Obszar zalania w polderze Golina I" stringId="ANUTTT"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0"
+                id="rzeka_rozlew_polder_Golina_fazaI_POLYGON.0" name="Obszar zalania"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Obszar zalania w polderze Golina II" stringId="MVUGFU"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0"
+                id="rzeka_rozlew_polder_Golina_fazaII_POLYGON.0" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Obszar zalania w polderze Golina III" stringId="XGQNBT"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0"
+                id="rzeka_rozlew_polder_Golina_fazaIII_POLYGON.0" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Obszar zalania w polderze Zagórów I" stringId="JGAFKG"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0"
+                id="rzeka_rozlew_polder_Zagorow_fazaI_POLYGON.0" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Obszar zalania w polderze Zagórów II" stringId="WEESVF"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0"
+                id="rzeka_rozlew_polder_Zagorow_fazaII_POLYGON.0" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Obszar zalania w polderze Zagórów III" stringId="JSSATM"
+        styleId="JCPZDJ" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0"
+                id="rzeka_rozlew_polder_Zagorow_fazaIII_POLYGON.0" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="wal" name="Wał Barłogi" stringId="GCUXWZ" styleId="YJYQHA"
+        typeStringId="WAL">
+        <property included="false" stringId="WAL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.481253568594568" iconY="52.11978325484465"
+                id="waly_LINE.7" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="wal" name="Wał Pyzdry" stringId="LJIFIU" styleId="YJYQHA"
+        typeStringId="WAL">
+        <property included="false" stringId="WAL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.734498644107507" iconY="52.174028108363046"
+                id="waly_LINE.9" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="polder" name="Polder Barłogi" stringId="GBNYHW" styleId="RZZLTS"
+        typeStringId="POL">
+        <property included="false" stringId="POL_M" value="25"/>
+        <property included="false" stringId="POL_Z" value="40"/>
+        <property included="false" stringId="POL_S" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.08763634750819" iconY="52.19274152606054"
+                id="poldery_POLYGON.7" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="ciek" name="Rzeka Warta w górnym biegu" stringId="TLJQTA"
+        styleId="XUVYSD" typeStringId="CIE">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="rzeki_normalnie_LINE.1"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="miasto na prawach powiatu w środkowej Polsce, w województwie wielkopolskim, położone w Dolinie Konińskiej, nad rzeką Wartą. Siedziba powiatu konińskiego."
+        iconName="obszar" name="Powiat m. Konin" stringId="XCPDHV" styleId="FTAVEG"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="78008"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="powiaty_POLYGON.0"
+                name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Jest to największy pod względem powierzchni powiat w województwie wielkopolskim (1900 km²), a także powiat ziemski o najwyższej liczbie ludności w Polsce – 341,4 tys. mieszkańców."
+        iconName="obszar" name="Powiat poznański" stringId="TXGSIV" styleId="FTAVEG"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="341357"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.810813937561353" iconY="51.91747156245997"
+                id="powiaty_POLYGON.5" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="obszar" name="Powiat m. Poznań" stringId="XJSVMG" styleId="FTAVEG"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="550742"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="2"/>
+        <geoIds>
+            <geoId default="true" iconX="17.591582326761124" iconY="52.25242889016878"
+                id="powiaty_POLYGON.11" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="gmina wiejska w województwie wielkopolskim, w powiecie jarocińskim. W latach 1975-1998 gmina położona była w województwie kaliskim."
+        iconName="obszar" name="Gmina Kotlin" stringId="LNOWZC" styleId="QNGNUZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="7193"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="17.085655943122894" iconY="51.99243441999071"
+                id="gminy_POLYGON.28" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="obszar" name="Gmina Konin" stringId="ZPYGTL" styleId="QNGNUZ"
+        typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="78008"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="1"/>
+        <geoIds>
+            <geoId default="true" iconX="18.409798165476747" iconY="52.262318549342474"
+                id="gminy_POLYGON.34" name="default location"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Spis dostępnych sił dla gminnego zespołu zarządzania kryzysowego w gminie Golina."
+        iconName="czlowiek" name="Dostępne siły w gminie Golina" stringId="LEURMV"
+        typeStringId="SIL">
+        <property included="false" stringId="SIL_O" value="3"/>
+        <property included="false" stringId="SIL_P" value="0"/>
+        <property included="false" stringId="SIL_K" value="1"/>
+        <property included="false" stringId="SIL_Z" value="0"/>
+        <property included="false" stringId="SIL_W" value="0"/>
+        <property included="false" stringId="SIL_V" value="50"/>
+    </resource>
+    <resource
+        desc="Spis dostępnych sił dla gminnego zespołu zarządzania kryzysowego w gminie Zagórów."
+        iconName="czlowiek" name="Dostępne siły w gminie Zagórów" stringId="ZFJRYK"
+        typeStringId="SIL">
+        <property included="false" stringId="SIL_O" value="2"/>
+        <property included="false" stringId="SIL_P" value="0"/>
+        <property included="false" stringId="SIL_K" value="1"/>
+        <property included="false" stringId="SIL_Z" value="0"/>
+        <property included="false" stringId="SIL_W" value="0"/>
+        <property included="false" stringId="SIL_V" value="45"/>
+    </resource>
+    <resource
+        desc="Spis dostępnych sił dla gminnego zespołu zarządzania kryzysowego w gminie Żerków."
+        iconName="czlowiek" name="Dostępne siły w gminie Żerków" stringId="PJTLHA"
+        typeStringId="SIL">
+        <property included="false" stringId="SIL_O" value="4"/>
+        <property included="false" stringId="SIL_P" value="0"/>
+        <property included="false" stringId="SIL_K" value="1"/>
+        <property included="false" stringId="SIL_Z" value="0"/>
+        <property included="false" stringId="SIL_W" value="0"/>
+        <property included="false" stringId="SIL_V" value="40"/>
+        <geoIds>
+            <geoId default="true" iconX="17.578778842971712" iconY="52.05842078584548"
+                id="resources_POINT.1" name="Dostepne siły Żerków"/>
+        </geoIds>
+    </resource>
+    <resource
+        desc="Spis dostępnych sił dla powiatowego zespołu zarządzania kryzysowego w powiecie konińskim. Wolontariusze oraz zakłady komunalne dostępne są bezpośrednio z poziomu gminnego."
+        iconName="czlowiek" name="Dostępne siły w powiecie konińskim" stringId="FEJQZV"
+        typeStringId="SIL">
+        <property included="false" stringId="SIL_O" value="12"/>
+        <property included="false" stringId="SIL_P" value="3"/>
+        <property included="false" stringId="SIL_K" value="0"/>
+        <property included="false" stringId="SIL_Z" value="0"/>
+        <property included="false" stringId="SIL_W" value="0"/>
+        <property included="false" stringId="SIL_V" value="0"/>
+    </resource>
+    <resource
+        desc="Spis dostępnych sił dla powiatowego zespołu zarządzania kryzysowego w powiecie słupeckim. Wolontariusze oraz zakłady &#10;komunalne dostępne są bezpośrednio z poziomu gminnego."
+        iconName="czlowiek" name="Dostępne siły w powiecie słupeckim" stringId="QNQDYY"
+        typeStringId="SIL">
+        <property included="false" stringId="SIL_O" value="13"/>
+        <property included="false" stringId="SIL_P" value="4"/>
+        <property included="false" stringId="SIL_K" value="0"/>
+        <property included="false" stringId="SIL_Z" value="0"/>
+        <property included="false" stringId="SIL_W" value="0"/>
+        <property included="false" stringId="SIL_V" value="0"/>
+    </resource>
+    <resource
+        desc="Spis dostępnych sił dla wojewódzkiego zespołu zarządzania kryzysowego w województwie &#10;wielkopolskim. Wolontariusze oraz zakłady komunalne dostępne są bezpośrednio &#10;z poziomu gminnego. Żołnierze i więźniowie dostępni są przy współpracy z MON i OSW."
+        iconName="czlowiek" name="Dostępne siły w województwie wielkopolskim" stringId="AWBZZI"
+        typeStringId="SIL">
+        <property included="false" stringId="SIL_O" value="85"/>
+        <property included="false" stringId="SIL_P" value="24"/>
+        <property included="false" stringId="SIL_K" value="0"/>
+        <property included="false" stringId="SIL_Z" value="1000"/>
+        <property included="false" stringId="SIL_W" value="500"/>
+        <property included="false" stringId="SIL_V" value="0"/>
+    </resource>
+    <resource
+        desc="Jedno z największych polskich województw, Województwo Wielkpolskie znajduje się w zachodniej części&#10;centralnej Polski. Zamieszkuje je prawie 3,5 miliona mieszkańców, z czego (wedle różnych definicji)&#10;od 800 tysięcy do 1 miliona stanowią mieszkańcy monocentrycznej aglomeracji poznańskiej.&#10;Historycznie jest to obszar rolniczy, co jest rezultatem bardzo długiego okresu wegetacyjnego&#10;na nizinie wielkopolskiej. Obecnie jest to jedno z najbogatszych województw w kraju."
+        iconName="obszar" name="Województwo Wielkopolskie" stringId="IKAXDZ" typeStringId="OBS">
+        <property included="false" stringId="OBS_M" value="3455476"/>
+        <property included="false" stringId="OBS_S" value="1"/>
+        <property included="false" stringId="OBS_T" value="3"/>
+    </resource>
+    <resource desc="" iconName="przerwany_wal_r" name="Przerwanie przewału - Krasnica"
+        stringId="NDOXPK" styleId="" typeStringId="ZDA">
+        <geoIds>
+            <geoId default="true" iconX="17.64365378089301" iconY="52.085418432539285"
+                id="events_POINT.2" name="ZDARZENIE Przerwany wal Krasnica"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="przerwany_wal_r" name="Kontrolowany zalew polderu Zagorów"
+        stringId="THUWHU" styleId="" typeStringId="ZDA">
+        <geoIds>
+            <geoId default="true" iconX="18.12193343500971" iconY="52.21953533544825"
+                id="events_POINT.4" name="ZDARZENIE Przerwany wal Zagorow"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="przerwany_wal_r" name="Przerwanie wału - Żerków" stringId="CTWGWB"
+        styleId="" typeStringId="ZDA">
+        <geoIds>
+            <geoId default="true" iconX="17.937440483821458" iconY="52.16581978833335"
+                id="events_POINT.3" name="ZDARZENIE Przerwany wal Zerkow"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="komar_y" name="Problem owadów" stringId="DUVKRX" styleId=""
+        typeStringId="ZDA">
+        <geoIds>
+            <geoId default="true" iconX="0.0" iconY="0.0" id="events_POINT.0"
+                name="ZDARZENIE komary"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="blokada_r" name="Problem samowolnej blokady" stringId="YFJEPJ"
+        styleId="" typeStringId="ZDA">
+        <geoIds>
+            <geoId default="true" iconX="17.801062274652935" iconY="52.20840689957407"
+                id="events_POINT.5" name="ZDARZENIE blokada"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="bobr_r" name="Problem działalności bobrów" stringId="DLKSJB"
+        styleId="" typeStringId="ZDA">
+        <geoIds>
+            <geoId default="true" iconX="18.0930167936965" iconY="52.21646065164681"
+                id="events_POINT.6" name="ZDARZENIE bobry"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="info_r" name="Sytuacja w okolicach Goliny" stringId="CPCZRC"
+        styleId="" typeStringId="ZDA">
+        <geoIds>
+            <geoId default="true" iconX="18.03088186194917" iconY="52.201035216582966"
+                id="events_POINT.7" name="ZDARZENIE golina"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="info_r" name="Sytuacja w okolicach Zagórowa" stringId="XUFCDX"
+        styleId="" typeStringId="ZDA">
+        <geoIds>
+            <geoId default="true" iconX="17.962055476013667" iconY="52.18423688194518"
+                id="events_POINT.8" name="ZDARZENIE zagorow"/>
+        </geoIds>
+    </resource>
+    <resource desc="" iconName="info_r" name="Sytuacja w okolicach Żerkowa" stringId="CZIWVF"
+        styleId="" typeStringId="ZDA">
+        <geoIds>
+            <geoId default="true" iconX="17.666356929031505" iconY="52.08722954795149"
+                id="events_POINT.9" name="ZDARZENIE zerkow"/>
+        </geoIds>
+    </resource>
+    <resourceType name="Wodowskaz" stringId="WOD">
+        <integerProperty defaultValue="200" fromValue="50" name="Aktualny stan wody" step="10"
+            stringId="WOD_P" toValue="1000"/>
+        <integerProperty defaultValue="200" fromValue="50" name="Ostrzegawczy stan wody" step="10"
+            stringId="WOD_O" toValue="1000"/>
+        <integerProperty defaultValue="200" fromValue="50" name="Alarmowy stan wody" step="10"
+            stringId="WOD_A" toValue="1000"/>
+        <stringProperty defaultValue="Wprowadź miejscowość..." name="Miejscowość" stringId="WOD_M"/>
+        <icon iconName="wodowskaz"/>
+    </resourceType>
+    <resourceType name="Przepust technologiczny" stringId="PRZ">
+        <listProperty defaultValue="1" name="Stan" stringId="PRZ_S">
+            <listItem id="1" value="otwarty"/>
+            <listItem id="2" value="zamknięty"/>
+        </listProperty>
+        <icon iconName="obiekt_kluczowy"/>
+    </resourceType>
+    <resourceType name="Wał" stringId="WAL">
+        <listProperty defaultValue="1" name="Stan" stringId="WAL_S">
+            <listItem id="1" value="nieprzerwany"/>
+            <listItem id="2" value="przerwany"/>
+        </listProperty>
+        <style styleId="YJYQHA"/>
+        <icon iconName="wal"/>
+    </resourceType>
+    <resourceType name="Zbiornik retencyjny" stringId="ZBI">
+        <integerProperty defaultValue="90" fromValue="0" name="Zrzut ze zbiornika" step="10"
+            stringId="ZBI_Z" toValue="500"/>
+        <integerProperty defaultValue="90" fromValue="0" name="Dopływ do zbiornika" step="10"
+            stringId="ZBI_D" toValue="500"/>
+        <doubleProperty defaultValue="118.0" fromValue="116.0" name="Poziom piętrzenia" step="10.0"
+            stringId="ZBI_P" toValue="122.0"/>
+        <listProperty defaultValue="1" name="Stan" stringId="ZBI_S">
+            <listItem id="1" value="sterowalny"/>
+            <listItem id="2" value="niesterowalny"/>
+        </listProperty>
+        <icon iconName="zbiornik_ret"/>
+        <icon iconName="zbiornik_ret_g"/>
+        <icon iconName="zbiornik_ret_r"/>
+    </resourceType>
+    <resourceType name="Obiekt ochrony kluczowej" stringId="OBI">
+        <listProperty defaultValue="1" name="Stan" stringId="OBI_S">
+            <listItem id="1" value="bezpieczny"/>
+            <listItem id="2" value="zagrożony"/>
+            <listItem id="3" value="zalany"/>
+        </listProperty>
+        <icon iconName="obiekt_kluczowy"/>
+    </resourceType>
+    <resourceType name="Droga" stringId="DRO">
+        <doubleProperty defaultValue="1.0" fromValue="0.0" name="Długość[km]" step="10.0"
+            stringId="DRO_D" toValue="100.0"/>
+        <listProperty defaultValue="1" name="Stan" stringId="DRO_S">
+            <listItem id="1" value="bezpieczna"/>
+            <listItem id="2" value="zagrożona"/>
+            <listItem id="3" value="zalana"/>
+        </listProperty>
+        <style styleId="BECWCU"/>
+        <icon iconName="droga"/>
+    </resourceType>
+    <resourceType name="Ciek" stringId="CIE">
+        <style styleId="JCPZDJ"/>
+        <style styleId="XUVYSD"/>
+        <icon iconName="ciek"/>
+    </resourceType>
+    <resourceType name="Obszar" stringId="OBS">
+        <integerProperty defaultValue="100" fromValue="0" name="Liczba mieszkańców" step="10"
+            stringId="OBS_M" toValue="10000000"/>
+        <listProperty defaultValue="1" name="Stan zagrożenia" stringId="OBS_S">
+            <listItem id="1" value="brak zagrożenia"/>
+            <listItem id="2" value="pogotowie przeciwpowodziowe"/>
+            <listItem id="3" value="alarm powodziowy"/>
+        </listProperty>
+        <listProperty defaultValue="1" name="Typ" stringId="OBS_T">
+            <listItem id="1" value="Gmina"/>
+            <listItem id="2" value="Powiat"/>
+            <listItem id="3" value="Województwo"/>
+        </listProperty>
+        <style styleId="QNGNUZ"/>
+        <style styleId="FTAVEG"/>
+        <icon iconName="obszar"/>
+    </resourceType>
+    <resourceType name="Miasto" stringId="MIA">
+        <integerProperty defaultValue="100" fromValue="0" name="Liczba mieszkańców" step="10"
+            stringId="MIA_M" toValue="1000000"/>
+        <listProperty defaultValue="1" name="Stan zagrożenia" stringId="MIA_S">
+            <listItem id="1" value="brak zagrożenia"/>
+            <listItem id="2" value="pogotowie przeciwpowodziowe"/>
+            <listItem id="3" value="alarm powodziowy"/>
+        </listProperty>
+        <listProperty defaultValue="1" name="Typ" stringId="MIA_T">
+            <listItem id="1" value="Miasto"/>
+            <listItem id="2" value="Wieś"/>
+        </listProperty>
+        <icon iconName="miasto"/>
+        <icon iconName="informowanie_g"/>
+        <icon iconName="informowanie_r"/>
+    </resourceType>
+    <resourceType name="Polder Zalewowy" stringId="POL">
+        <integerProperty defaultValue="100" fromValue="0" name="Szacowana liczba zamieszkujących"
+            step="10" stringId="POL_M" toValue="10000"/>
+        <integerProperty defaultValue="100" fromValue="0"
+            name="Szacowana liczba zwierząt hodowlanych" step="10" stringId="POL_Z" toValue="10000"/>
+        <listProperty defaultValue="1" name="Aktualna sytuacja" stringId="POL_S">
+            <listItem id="1" value="Obszar niezalewany, niezagrożony zalaniem"/>
+            <listItem id="2" value="Obszar niezalewany, zagrożony zalaniem"/>
+            <listItem id="3" value="Obszar zalewany"/>
+        </listProperty>
+        <style styleId="RZZLTS"/>
+        <icon iconName="obszar_zalany"/>
+    </resourceType>
+    <resourceType name="Magazyn" stringId="MAG">
+        <integerProperty defaultValue="100" fromValue="0" name="Liczba worków[szt.]" step="10"
+            stringId="MAG_W" toValue="1000000"/>
+        <integerProperty defaultValue="5" fromValue="0" name="Liczba pomp[szt.]" step="1"
+            stringId="MAG_P" toValue="50"/>
+        <integerProperty defaultValue="3" fromValue="0" name="Liczba pontonów[szt.]" step="1"
+            stringId="MAG_R" toValue="50"/>
+        <integerProperty defaultValue="2" fromValue="0" name="Liczba łodzi[szt.]" step="1"
+            stringId="MAG_L" toValue="50"/>
+        <integerProperty defaultValue="4" fromValue="0" name="Liczba agregatów prądotwórczych[szt.]"
+            step="1" stringId="MAG_A" toValue="25"/>
+        <doubleProperty defaultValue="3.0" fromValue="0.1" name="Ilość folii[tys. m2]" step="0.1"
+            stringId="MAG_F" toValue="100.0"/>
+        <doubleProperty defaultValue="3.0" fromValue="0.1" name="Ilość geowłókniny[tys. m2]"
+            step="0.1" stringId="MAG_G" toValue="100.0"/>
+        <icon iconName="magazyn"/>
+    </resourceType>
+    <resourceType name="Dostępne siły" stringId="SIL">
+        <integerProperty defaultValue="5" fromValue="0" name="Dostępne jednostki OSP" step="1"
+            stringId="SIL_O" toValue="100"/>
+        <integerProperty defaultValue="5" fromValue="0" name="Dostępne jednostki PSP" step="1"
+            stringId="SIL_P" toValue="100"/>
+        <integerProperty defaultValue="5" fromValue="0" name="Dostępne zakłady komunalne" step="1"
+            stringId="SIL_K" toValue="100"/>
+        <integerProperty defaultValue="5" fromValue="0"
+            name="Szacunkowa liczba dostępnych żołnerzy (MON)" step="10" stringId="SIL_Z"
+            toValue="10000"/>
+        <integerProperty defaultValue="5" fromValue="0" name="Szacunkowa liczba dostępnych więźniów"
+            step="10" stringId="SIL_W" toValue="10000"/>
+        <integerProperty defaultValue="5" fromValue="0"
+            name="Szacunkowa liczba dostępnych wolontariuszy" step="10" stringId="SIL_V"
+            toValue="10000"/>
+        <icon iconName="czlowiek"/>
+    </resourceType>
+    <resourceType name="Zdarzenie" stringId="ZDA">
+        <icon iconName="przerwany_wal_r"/>
+        <icon iconName="czlowiek_r"/>
+        <icon iconName="czlowiek_g"/>
+        <icon iconName="bobr_g"/>
+        <icon iconName="bobr_r"/>
+        <icon iconName="bobr_y"/>
+        <icon iconName="komar_y"/>
+        <icon iconName="komar_g"/>
+        <icon iconName="komar_r"/>
+        <icon iconName="blokada_r"/>
+        <icon iconName="info_g"/>
+        <icon iconName="info_r"/>
+    </resourceType>
+</resources>

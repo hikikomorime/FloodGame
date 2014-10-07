@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<map boundsx1="16.462236228593163" boundsx2="19.157227462379062" boundsy1="51.36929917432275" boundsy2="52.896807719186725">
+  <layers>
+    <layer fileName="rzeka_rozlew_polder_Golina_fazaI_POLYGON.shp" id="YRLFNG" name="Inundation Golina I" type="VECTOR" url=""/>
+    <layer fileName="rzeka_rozlew_polder_Golina_fazaII_POLYGON.shp" id="YRYFNG" name="Inundation Golina II" type="VECTOR" url=""/>
+    <layer fileName="rzeka_rozlew_polder_Golina_fazaIII_POLYGON.shp" id="PRLFNG" name="Inundation Golina II" type="VECTOR" url=""/>
+    <layer fileName="rzeka_rozlew_polder_Zagorow_fazaI_POLYGON.shp" id="YRUKNG" name="Inundation Zagórów I" type="VECTOR" url=""/>
+    <layer fileName="rzeka_rozlew_polder_Zagorow_fazaII_POLYGON.shp" id="YRLFOI" name="Inundation Zagórów II" type="VECTOR" url=""/>
+    <layer fileName="rzeka_rozlew_polder_Zagorow_fazaIII_POLYGON.shp" id="YULMNG" name="Inundation Zagórów III" type="VECTOR" url=""/>
+    <layer fileName="rzeki_rozlew_zerkow_fazaI_POLYGON.shp" id="YRLENG" name="Inundation Żerków I" type="VECTOR" url=""/>
+    <layer fileName="rzeki_rozlew_zerkow_fazaII_POLYGON.shp" id="YRLENK" name="Inundation Żerków II" type="VECTOR" url=""/>
+    <layer fileName="rzeki_rozlew_zerkow_fazaIII_POLYGON.shp" id="YRLENE" name="Inundation Żerków III" type="VECTOR" url=""/>
+    <layer fileName="rzeki_rozlew_fazaIII_POLYGON.shp" id="YRLENT" name="Rivers - inundation III" type="VECTOR" url=""/>
+    <layer fileName="rzeki_rozlew_fazaII_POLYGON.shp" id="YRLENT" name="Rivers - inundation II" type="VECTOR" url=""/>
+    <layer fileName="rzeki_rozlew_fazaI_POLYGON.shp" id="YRLENT" name="Rivers - inundation I" type="VECTOR" url=""/>
+    <layer fileName="poldery_POLYGON.shp" id="LBEAOG" name="Flood polders" type="VECTOR" url=""/>
+    <layer fileName="gminy_POLYGON.shp" id="XGTBJL" name="Municiplity" type="VECTOR" url=""/>
+    <layer fileName="powiaty_POLYGON.shp" id="OLTSSK" name="District" type="VECTOR" url=""/>
+    <layer fileName="rzeki_normalnie_LINE.shp" id="YRLENT" name="Rivers" type="VECTOR" url=""/>
+    <layer fileName="drogi_LINE.shp" id="QOOVWZ" name="Roads" type="VECTOR" url=""/>
+    <layer fileName="miejscowosci_POINT.shp" id="KBUICA" name="Cities" type="VECTOR" url=""/>
+    <layer fileName="obiekty_POINT.shp" id="SPOIOD" name="Key locations" type="VECTOR" url=""/>
+    <layer fileName="zbiorniki_retencyjne_POINT.shp" id="SPOIOG" name="Reservoirs" type="VECTOR" url=""/>
+    <layer fileName="waly_LINE.shp" id="YGYMXR" name="Floodbanks" type="VECTOR" url=""/>
+    <layer fileName="events_POINT.shp" id="OOMPGG" name="Incidents" type="VECTOR" url=""/>
+  </layers>
+  <styles>
+    <style id="JCPZDJ" name="rozlew" select="false">
+      <property name="fillColor" value="#4292F0"/>
+      <property name="strokeColor" value="#4292F0"/>
+      <property name="strokeWidth" value="0"/>
+      <property name="fillOpacity" value="0.5"/>
+    </style>
+    <style id="RZZLTS" name="polder_normal" select="false">
+      <property name="fillColor" value="#FF99FF"/>
+      <property name="strokeColor" value="#FF99CC"/>
+      <property name="strokeWidth" value="1"/>
+      <property name="fillOpacity" value="0.2"/>
+    </style>
+    <style id="QNGNUZ" name="gminy_normal" select="false">
+      <property name="fillColor" value="#99FF99"/>
+      <property name="strokeColor" value="#86BB86"/>
+      <property name="strokeWidth" value="0"/>
+      <property name="fillOpacity" value="0"/>
+    </style>
+    <style id="FTAVEG" name="powiaty_normal" select="false">
+      <property name="fillColor" value="#CCFF99"/>
+      <property name="strokeColor" value="#89D553"/>
+      <property name="strokeWidth" value="0.5"/>
+      <property name="fillOpacity" value="0.05"/>
+    </style>
+    <style id="XUVYSD" name="rzeki_normal" select="false">
+      <property name="fillColor" value="#4292F0"/>
+      <property name="strokeColor" value="#4292F0"/>
+      <property name="strokeWidth" value="3"/>
+      <property name="fillOpacity" value="0.5"/>
+    </style>
+    <style id="YBGNAK" name="miejscowosci_normal" select="false">
+      <property name="fillColor" value="#6C091A"/>
+      <property name="strokeColor" value="#6C091A"/>
+      <property name="strokeWidth" value="3"/>
+      <property name="fillOpacity" value="1"/>
+    </style>
+    <style id="WSKWDC" name="obiekty_normal" select="false">
+      <property name="fillColor" value="#6C091A"/>
+      <property name="strokeColor" value="#6C091A"/>
+      <property name="strokeWidth" value="2"/>
+      <property name="fillOpacity" value="1"/>
+    </style>
+    <style id="NTRVGL" name="retencyjny_normal" select="false">
+      <property name="fillColor" value="#6C091A"/>
+      <property name="strokeColor" value="#6C091A"/>
+      <property name="strokeWidth" value="3"/>
+      <property name="fillOpacity" value="1"/>
+    </style>
+    <style id="YJYQHA" name="wal_normal" select="false">
+      <property name="fillColor" value="#660000"/>
+      <property name="strokeColor" value="#660000"/>
+      <property name="strokeWidth" value="2"/>
+      <property name="fillOpacity" value="1"/>
+    </style>
+    <style id="BECWCU" name="drogi_normal" select="false">
+      <property name="fillColor" value="#FFE47A"/>
+      <property name="strokeColor" value="#FFC35C"/>
+      <property name="strokeWidth" value="2"/>
+      <property name="fillOpacity" value="1"/>
+    </style>
+  </styles>
+  <configurations>
+    <configuration boundsx1="17.68036698141345" boundsx2="18.210570101374138" boundsy1="52.01664239774833" boundsy2="52.344574195292296" default="false" id="JRMVHI" name="Gmina_Zagorow"/>
+    <configuration boundsx1="17.89750890528575" boundsx2="18.250977651926203" boundsy1="52.127510127972116" boundsy2="53.15260603567871" default="false" id="KFLEOZ" name="Gmina_Golina"/>
+    <configuration boundsx1="17.500291735992935" boundsx2="17.800494855953623" boundsy1="51.95017008289899" boundsy2="52.27310188044296" default="false" id="ASVVCT" name="Gmina_Zerkow"/>
+    <configuration boundsx1="18.02217670937343" boundsx2="18.55237982933413" boundsy1="52.10212889197989" boundsy2="52.43006068952386" default="false" id="RUSJZG" name="Powiat_Koninski"/>
+    <configuration boundsx1="17.60048944613274" boundsx2="18.278232259152126" boundsy1="52.03128153347256" boundsy2="52.45046695615063" default="false" id="APGZBM" name="Powiat_Slupecki"/>
+    <configuration boundsx1="16.96897782351739" boundsx2="18.765638646041314" boundsy1="51.70435213852316" boundsy2="52.722691168432476" default="true" id="AFIMZV" name="Woj_Wielkopolskie"/>
+  </configurations>
+</map>
