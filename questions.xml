@@ -9,7 +9,7 @@
         <str_id answear="-" id="QMHUJI"/>
       </variants>
     </response>
-    <response hint="Jeżeli sytuacja (zarówno stan zasobów gminnych jest niski, jak i stan powodzi jest krytyczny) tego wymaga, wniosek do PZZK nie jest działaniem niepoprawnym. Priorytetowo gmina powinna jednak zacząć od właściwego dysponowania swoimi zasobami." multiresponse="false" name="wnioskuję do PZZK o wydelegowanie środków do akcji zabezpieczania oczyszczalni workami" stringId="RQESBP">
+    <response hint="If the situation (both state municipal resources is low, as well as the state of floods is critical) that requires the application to PZZK is not a incorrect. Priority municipality should, however, start with the proper disposal of your resources." multiresponse="false" name="Request from PZZK of delegated agents to share protect wastewater bags" stringId="RQESBP">
       <variants>
         <str_id answear="+" id="EXQKSU"/>
         <str_id answear="-" id="KHTVXH"/>
@@ -17,7 +17,7 @@
         <str_id answear="-" id="QMHUJI"/>
       </variants>
     </response>
-    <response hint="Gmina powinna najpierw zwrócić się o pomoc na poziom powiatu - stąd PZZK może wnioskować o pomoc z województwa. Tym samym przeskoczenie jednego szczebla administracji jest zachowaniem niewłaściwym i naruszającym strukturę zarządzania kryzysowego." multiresponse="false" name="wnioskuję do WZZK o wydelegowanie środków do akcji zabezpieczania oczyszczalni workami" stringId="GYYYUR">
+    <response hint="The municipality should first seek the assistance of the level of the county - hence PZZK may request assistance from the province. Thus skipping one level of administration is inappropriate behavior and violation of the crisis management structure." multiresponse="false" name="Request from WZZK of delegated agents to share protect wastewater bags" stringId="GYYYUR">
       <variants>
         <str_id answear="-" id="EXQKSU"/>
         <str_id answear="+" id="KHTVXH"/>
@@ -25,7 +25,7 @@
         <str_id answear="-" id="QMHUJI"/>
       </variants>
     </response>
-    <response hint="Taki celowy brak działania jest bardzo niebezpieczny. Wprawdzie w krótkiej perspektywie czasowej oszczędza gminne środki, które w danym momencie mogą być potrzebne gdzie indziej w obliczu braku krytycznego zagrożenia oczyszczalni. Jednakże w przypadku ewentualnego zalewania polderu akcja zabezpieczania może być zbyt zapóźniona, aby ocalić oczyszczalnię lub przynajmniej zapewnić jej ciągłe, bezpieczne funkcjonowanie." multiresponse="false" name="czekam z działaniami do momentu rozpoczęcia ewentualnego zalewania polderu" stringId="PRDFHC">
+    <response hint="Such a deliberate lack of action is very dangerous. Although in the short term saves municipal funds, which at any given time may be needed elsewhere in the absence of a critical threat sewage. However, in the event of flooding polder protection action may be too retarded to save the treatment plant, or at least ensure its continuous safe operation." multiresponse="false" name="I look forward with actions to the start of a possible flooding polder" stringId="PRDFHC">
       <variants>
         <str_id answear="-" id="EXQKSU"/>
         <str_id answear="-" id="KHTVXH"/>
