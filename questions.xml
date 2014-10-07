@@ -40,8 +40,8 @@
       <var name="ATSKJK" note="0" stringId="QMHUJI"/>
     </variants_list>
   </question>
-  <question desc="W związku z otrzymanymi wnioskami o wsparcie: " multiresponse="false" name="Odpowiedź na prośby o wsparcie materiałowe" plotId="NVPNHP" roleId="XFKNAG" stringId="JWTRWS">
-    <response hint="To najbardziej racjonalne rozwiązanie - ze względu na brak możliwości zaspokojenia wszystkich potrzeb wnioskujących, przynajmniej PZZK przybliży ich do osiągnięcia wymaganego przez sytuację poziomu zaopatrzenia w zasoby." multiresponse="false" name="przekazuję każdej z gmin połowę worków o które wnioskowały" stringId="HBJFGQ">
+  <question desc="In view of the requests for support: " multiresponse="false" name="Response to requests for material support" plotId="NVPNHP" roleId="XFKNAG" stringId="JWTRWS">
+    <response hint="This is the most rational solution - due to the lack of ability to satisfy all the needs of applicants, at least PZZK will bring them to achieve the level required by the situation of the provision of the resources." multiresponse="false" name="convey each half bags of municipalities that requested" stringId="HBJFGQ">
       <variants>
         <str_id answear="-" id="PRKTDU"/>
         <str_id answear="+" id="LANWMY"/>
@@ -49,7 +49,7 @@
         <str_id answear="-" id="YWDTDN"/>
       </variants>
     </response>
-    <response hint="Takie rozwiązanie jest ryzykowne ze względu na spodziewaną reakcję mieszkańców i mediów, które będą postrzegały taką decyzję jako noszącą znamiona zaniedbania obowiązków ochrony obiektów użyteczności publicznej." multiresponse="false" name="nie udzielam wsparcia - nie są to kluczowe obiekty" stringId="BLRHKP">
+    <response hint="This approach is risky because of the expected reaction of residents and the media that will be seen by this decision as bearing the hallmarks of neglect of duty to protect public facilities." multiresponse="false" name="do not give support - these are not the key objects" stringId="BLRHKP">
       <variants>
         <str_id answear="-" id="PRKTDU"/>
         <str_id answear="-" id="LANWMY"/>
@@ -57,7 +57,7 @@
         <str_id answear="+" id="YWDTDN"/>
       </variants>
     </response>
-    <response hint="Zagórowska oczyszczalnia będzie właściwie zabezpieczona, jednakże gmina Lądek i jej mieszkańcy będą nadal potrzebowali pomocy, co z pewnością spowoduje ostrą reakcję społeczną." multiresponse="false" name="przekazuję tylko gminie Zagórów 20 tys. worków" stringId="TBIXJO">
+    <response hint="Zagórów treatment will be properly protected, but Ladek municipality and its people will continue to need help, which will certainly cause acute social reaction." multiresponse="false" name="convey 20 thousand bags only for the municipality of Zagórów" stringId="TBIXJO">
       <variants>
         <str_id answear="+" id="PRKTDU"/>
         <str_id answear="-" id="LANWMY"/>
