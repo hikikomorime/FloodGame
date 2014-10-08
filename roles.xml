@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <roles>
-  <role desc="Wielkopolski Wojewódzki Zespół Zarządzania Kryzysowego " name="Wielkopolski WZZK" stringId="DYQXYI"/>
-  <role desc="Koniński Powiatowy Zespół Zarządzania Kryzysowego " name="Koniński PZZK" stringId="LBEERP"/>
-  <role desc="Słupecki Powiatowy Zespół Zarządzania Kryzysowego " name="Słupecki PZZK" stringId="XFKNAG"/>
-  <role desc="Gminny Zespół Zarządzania Kryzysowego Zagórów" name="GZZK Zagórów" stringId="DTPJYM"/>
-  <role desc="Gminny Zespół Zarządzania Kryzysowego Żerków" name="GZZK Żerków" stringId="DMFNCF"/>
-  <role desc="Gminny Zespół Zarządzania Kryzysowego Golina " name="GZZK Golina" stringId="EBNZRZ"/>
+<roles desc = "Wielkopolska Provincial Crisis Management Team" name = "Greater WZZK" stringID = "DYQXYI" /> 
+   <roles desc = "Konin District Crisis Management Team" name = "Konin PZZK" stringID = "LBEERP" /> 
+   <roles desc = "Słupecki District Crisis Management Team" name = "Słupecki PZZK" stringID = "XFKNAG" /> 
+   <roles desc = "Communal Crisis Management Team Zagórów" name = "GZZK Zagórów" stringID = "DTPJYM" /> 
+   <roles desc = "Communal Crisis Management Team Żerków" name = "GZZK Żerków" stringID = "DMFNCF" /> 
+   <roles desc = "Communal Crisis Management Team Golina" name = "GZZK Golina" stringID = "EBNZRZ" />
 </roles>
