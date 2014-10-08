@@ -13,8 +13,11 @@
         </geoIds>
     </resource>
     <resource
-        desc="Szkoła w Sławsku w jakiejś formule funkcjonuje już od początków XX wieku. W 1918 szkoła została przemianowana na Publiczną&#10;Państwową Szkołę Powszechną. Szkoła funkcjonowała podczas wojny, prowadzona przez sprzyjającego okupantom&#10;kierownika szkoły, Nicteasa Diaczyszyna. Po wojnie szkoła działała wciąż w tym samym budynku, wykorzystując wybudowaną&#10;przez niemców salkę lekcyjną. W 1992 roku szkoła przeniosła się do nowego budynku, w którym działa do dziś. Szkoła&#10;jest umiejscowiona w Sławsku na ulicy Okólnej 3."
-        iconName="obiekt_kluczowy" name="Zespół Szkół w Sławsku" stringId="KZEMPP" styleId="WSKWDC"
+        desc="The school in Sławsko in some formula has been operating since the early twentieth century. In 1918 the school was renamed the Public National School of Universal. The school functioned during the war, led by favorable occupiers 
+Head of School, Nicteasa Diaczyszyna. After the war, the school still operated in the same building, built using 
+by Germans Salk classroom. In 1992, the school moved to a new building in which it operates to this day. School 
+is located in the street Sławsko Okólna 3."
+        iconName="obiekt_kluczowy" name="Schools in Sławsko" stringId="KZEMPP" styleId="WSKWDC"
         typeStringId="OBI">
         <property included="false" stringId="OBI_S" value="1"/>
         <geoIds>
@@ -23,8 +26,8 @@
         </geoIds>
     </resource>
     <resource
-        desc="Pas startowy Aeroklubu może być używany jako lądowisko dla samolotów opryskujących tereny zalane, helikopterów ewakuacyjnych jak i wszelkich latających urządzeń do zbierania danych dotyczących powodzi z powietrza.&#10;&#10;Siedziba Aeroklubu Konińskiego znajduje się w odległym o 15 km od Konina w Kazimierzu Biskupim. Tam, na zrekultywowanych terenach pokopalnianych zagospodarowano obszar około 45 ha tworząc lotnisko i zaplecze aeroklubu.&#10;W skład infrastruktury Aeroklubu wchodzą: oświetlony asfaltowy pas startowy o długości 620 i szerokości 27 m, dwa hangary, budynek biurowo-socjalny z miejscami noclegowymi, stacja paliw oraz warsztat naprawy sprzętu lotniczego&#10;Na dzień dzisiejszy Aeroklub dysponuje trzema smolotami, siedmioma szybowcami, balonem na ogrzane powietrze. Umożliwia to prowadzenie szkoleń podstawowych, doskonalących i treningu członków sekcji samolotowej, szybowcowej&#10; i balonowej."
-        iconName="obiekt_kluczowy" name="Aeroklub Koniński w Kazimierzu Biskupim" stringId="THUHTQ"
+        desc="Aero Club runway can be used as a landing strip for airplanes spray products flooded areas, helicopter evacuation and any flying devices to collect data on floods from the air. Head of Konin Aero Club is located in 15 km distant from Konin Bishop Kazimierz. There, on a reclaimed coal mining areas were utilized area of ​​about 45 hectares of creating airport and flying club facilities. The Aero Club facilities include: lighted asphalt runway with a length of 620 and a width of 27 m, two hangars, office building social with accommodation, petrol station and repair shop equipment air At present, NAC has three smolotami, seven gliders, hot-air balloon. This allows you to conduct basic training, improvement and training of the members of the section plane, gliding and balloon."
+        iconName="obiekt_kluczowy" name="Aero Club of Konin in Kazimierz Biskupim" stringId="THUHTQ"
         styleId="WSKWDC" typeStringId="OBI">
         <property included="false" stringId="OBI_S" value="1"/>
         <geoIds>
